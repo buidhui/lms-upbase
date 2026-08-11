@@ -1,4 +1,4 @@
-# Discussion
+# Thảo luận
 
 ## I. Thông tin chung
 
@@ -37,11 +37,11 @@ Tại màn hình Activity, ở khu vực Discussion, học viên có thể bình
 
 * Thêm bình luận bằng chữ: nhập bình luận tại ô `'Your comment…'`.
 
-<figure><img src="../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
 
 * Bình luận bằng ảnh: nhấp vào biểu tượng máy ảnh và chọn ảnh từ thiết bị (cho phép chọn nhiều ảnh cùng lúc).
 
-<figure><img src="../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -49,9 +49,9 @@ Tại màn hình Activity, ở khu vực Discussion, học viên có thể bình
 
 Click nút **Enter** hoặc biểu tượng **Submit** để gửi bình luận.
 
-<figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -67,7 +67,7 @@ Click nút **Enter** hoặc biểu tượng **Submit** để gửi bình luận.
 
 Tại bình luận mà học viên muốn trả lời, click **Reply**.
 
-<figure><img src="../../.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -75,7 +75,7 @@ Tại bình luận mà học viên muốn trả lời, click **Reply**.
 
 Nhập bình luận tại ô `'Input text…'` bên dưới bình luận đó và click **Enter**.
 
-<figure><img src="../../.gitbook/assets/image (259).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (259).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -91,7 +91,7 @@ Nhập bình luận tại ô `'Input text…'` bên dưới bình luận đó v�
 
 Tại bình luận muốn chỉnh sửa, chọn **Edit**.
 
-<figure><img src="../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -101,11 +101,11 @@ Nhập nội dung mới của bình luận, sau đó click **Enter** để lưu 
 
 _Hủy sửa bình luận:_
 
-<figure><img src="../../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
 
 _Click Enter để lưu bình luận mới_
 
-<figure><img src="../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -121,7 +121,7 @@ _Click Enter để lưu bình luận mới_
 
 Tại bình luận muốn xóa, chọn **Delete**.
 
-<figure><img src="../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -132,7 +132,7 @@ Hộp thoại xác nhận hiển thị:
 * Chọn **Delete** để đồng ý xóa, lúc này bình luận sẽ biến mất khỏi màn hình.
 * Chọn **Cancel** để hủy xóa bình luận.
 
-<figure><img src="../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

@@ -36,7 +36,7 @@
 
 Mở Activity có chứa Video và click vào kí hiệu **Play** hoặc click vào Video để bật Video.
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -44,7 +44,7 @@ Mở Activity có chứa Video và click vào kí hiệu **Play** hoặc click v
 
 Khi Video đang chạy, nhấp vào nút **Pause** hoặc click vào Video để dừng Video.
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -64,7 +64,7 @@ Mở Activity có chứa Video và điều chỉnh âm lượng cho Video:
 * Khi tiếng của Video đang bị tắt, click vào biểu tượng âm lượng một lần nữa để mở lại tiếng cho Video.
 * Tăng/giảm âm lượng của Video bằng cách kéo thanh âm lượng.
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -80,7 +80,7 @@ Mở Activity có chứa Video và điều chỉnh âm lượng cho Video:
 
 Mở Activity có chứa Video và click vào biểu tượng phóng to Video.
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -88,7 +88,7 @@ Mở Activity có chứa Video và click vào biểu tượng phóng to Video.
 
 Khi Video đang được phóng to, click vào biểu tượng thu nhỏ để thu nhỏ Video.
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -112,7 +112,7 @@ Học viên mở Activity có nhiều hơn 1 video bài giảng.
 
 Đánh dấu vào Video mà người học muốn xem.
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -134,7 +134,7 @@ Mở hoạt động có chứa Video bài giảng (Video này đã được cài
 
 Mở danh sách Timeline của Video bằng cách click vào nút Timeline.
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -142,7 +142,7 @@ Mở danh sách Timeline của Video bằng cách click vào nút Timeline.
 
 Nhấp vào mốc thời gian với nội dung mà học viên muốn xem, Video sẽ tự động chạy ở mốc thời gian đó.
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -160,7 +160,7 @@ Trong quá trình xem Video bài giảng, học viên sẽ được thực hành
 
 Học viên đưa đáp án khi câu hỏi hiển thị trên màn hình.
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -168,7 +168,7 @@ Học viên đưa đáp án khi câu hỏi hiển thị trên màn hình.
 
 Nhấp **Confirm** để gửi đáp án cho hệ thống. Đáp án đúng và lời giải của câu hỏi sẽ hiển thị trên màn hình.
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -176,7 +176,7 @@ Nhấp **Confirm** để gửi đáp án cho hệ thống. Đáp án đúng và 
 
 Học viên chọn **Skip/Next** tiếp tục xem Video.
 
-<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

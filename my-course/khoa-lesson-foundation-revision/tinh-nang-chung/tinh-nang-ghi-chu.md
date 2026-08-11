@@ -39,21 +39,21 @@
 
 Sau khi người dùng mở màn hình chi tiết Khóa học, tại thanh Menu nhấp vào **Note List**.
 
-<figure><img src="../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
 Danh sách các ghi chú đã được lưu sẽ hiển thị khác nhau theo từng màn hình mà học viên truy cập:
 
 * Màn hình thông tin các cấu phần học lớn: hiển thị danh sách ghi chú đã lưu của toàn bộ Khóa học.
 
-<figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
 * Màn hình thông tin chi tiết của một chủ đề (Part/Topic): hiển thị danh sách ghi chú đã lưu của toàn bộ chủ đề đó.
 
-<figure><img src="../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
 * Màn hình hoạt động học tập (Activity): hiển thị toàn bộ ghi chú đã lưu tại hoạt động đó.
 
-<figure><img src="../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -61,11 +61,11 @@ Danh sách các ghi chú đã được lưu sẽ hiển thị khác nhau theo t�
 
 Click vào ghi chú để chuyển hướng đến hoạt động học tập có chứa ghi chú đó, và ghi chú sẽ hiển thị trên màn hình.
 
-<figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
 Ghi chú hiển thị trên màn hình như sau:
 
-<figure><img src="../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -86,7 +86,7 @@ Tìm kiếm lần lượt theo các trường:
 * Unit: chọn 1 trong tất cả Unit của Subsection vừa chọn.
 * Activity: chọn 1 trong tất cả Activity của Unit vừa chọn.
 
-<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -102,7 +102,7 @@ Tìm kiếm lần lượt theo các trường:
 
 Tại màn hình nội dung kiến thức của một hoạt động, nhấp vào **New Note** để mở hộp thoại ghi chú.
 
-<figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -116,7 +116,7 @@ Học viên ghi những nội dung kiến thức cần ghi nhớ vào hộp tho�
 
 Click **biểu tượng Save** để lưu lại ghi chú phục vụ cho quá trình ôn tập.
 
-<figure><img src="../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -136,7 +136,7 @@ Chỉ có thể chỉnh sửa ghi chú tại hoạt động có chứa ghi chú 
 
 Tại màn hình danh sách ghi chú, nhấp vào ghi chú muốn chỉnh sửa hoặc click vào biểu tượng **Edit**.
 
-<figure><img src="../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -150,7 +150,7 @@ Chỉnh sửa nội dung ghi chú.
 
 Chọn biểu tượng **Save** để lưu.
 
-<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -166,7 +166,7 @@ Chọn biểu tượng **Save** để lưu.
 
 Tại màn hình danh sách ghi chú, nhấp vào biểu tượng **Xóa**.
 
-<figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

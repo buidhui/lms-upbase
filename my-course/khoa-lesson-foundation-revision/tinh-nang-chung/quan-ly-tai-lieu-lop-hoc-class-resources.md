@@ -1,4 +1,4 @@
-# Quản lý tài liệu lớp học (Class Resources)
+# Tài liệu lớp học
 
 ## I. Thông tin chung
 
@@ -52,7 +52,7 @@ Tài liệu này hướng dẫn học viên các bước chi tiết sử dụng 
 
 Tại màn hình chính My Course, học viên chọn lớp học cần xem tài liệu.
 
-<figure><img src="../../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -60,7 +60,7 @@ Tại màn hình chính My Course, học viên chọn lớp học cần xem tài
 
 Tại thanh Menu Sidebar, chọn **Class Resource**.
 
-<figure><img src="../../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -70,11 +70,11 @@ Tại tab Class Resource, hệ thống hiển thị tài liệu mà học viên 
 
 * Dạng Danh sách (List Layout):
 
-<figure><img src="../../.gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure>
 
 * Dạng Lưới (Grid Layout):
 
-<figure><img src="../../.gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>
 
 Mô tả thông tin:
 
@@ -91,11 +91,11 @@ Mô tả thông tin:
 
 Lọc tài liệu theo loại tài liệu:
 
-<figure><img src="../../.gitbook/assets/image (233).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (233).png" alt=""><figcaption></figcaption></figure>
 
 Lọc tài liệu theo buổi học:
 
-<figure><img src="../../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -105,20 +105,20 @@ Học viên click chọn vào tài liệu/folder muốn xem chi tiết.
 
 *   Dạng List
 
-    <figure><img src="../../.gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>
 * Dạng Grid:
 
-<figure><img src="../../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
 
 Sau khi click chọn, tùy dạng Folder hay File, hệ thống sẽ điều hướng người dùng như sau:
 
 * Folder: xem chi tiết nội dung Folder.
 
-<figure><img src="../../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
 
 * File: xem trước nội dung tài liệu ngay trên hệ thống.
 
-<figure><img src="../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -141,7 +141,7 @@ Sau khi click chọn, tùy dạng Folder hay File, hệ thống sẽ điều hư
 
 Tại danh sách tài liệu trong lớp học, chọn nút **Action** tương ứng với tài liệu muốn tải và chọn **Download**.
 
-<figure><img src="../../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

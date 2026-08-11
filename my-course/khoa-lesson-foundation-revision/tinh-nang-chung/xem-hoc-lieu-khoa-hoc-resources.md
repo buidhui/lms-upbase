@@ -1,4 +1,4 @@
-# Xem học liệu khóa học (Resources)
+# Tài liệu khoá học
 
 ## I. Thông tin chung
 
@@ -35,21 +35,21 @@
 
 Sau khi người dùng mở màn hình chi tiết Khóa học, tại thanh Menu nhấp vào **Resource** thì danh sách các tài liệu được đính kèm trong khóa học được hiển thị theo thời gian tạo giảm dần.
 
-<figure><img src="../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
 
 Danh sách các học liệu sẽ hiển thị khác nhau theo từng màn hình mà học viên truy cập:
 
 * Màn hình thông tin các cấu phần học lớn: hiển thị danh sách học liệu của toàn bộ Khóa học.
 
-<figure><img src="../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
 
 * Màn hình thông tin chi tiết của một chủ đề (Part/Topic): hiển thị danh sách học liệu của toàn bộ chủ đề đó.
 
-<figure><img src="../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
 
 * Màn hình hoạt động học tập (Activity): hiển thị toàn bộ học liệu được tải lên tại hoạt động đó.
 
-<figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -57,7 +57,7 @@ Danh sách các học liệu sẽ hiển thị khác nhau theo từng màn hình
 
 Học viên click vào biểu tượng tải về để tải về máy tài liệu tương ứng.
 
-<figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -80,7 +80,7 @@ Tìm kiếm theo các trường Section, Subsection, Unit, Activity để lấy 
 
 Khi nhập mỗi một trường thông tin, hệ thống sẽ tự động tìm kiếm các kết quả theo thông tin đã nhập.
 
-<figure><img src="../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -105,7 +105,7 @@ Khi nhập mỗi một trường thông tin, hệ thống sẽ tự động tìm
 
 ## IV. Các Lỗi Thường Gặp & Cách Xử Lý
 
-| Lỗi / Tình huống                            | Nguyên nhân                                              | Cách xử lý                                                                       |
-| ------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| Không thấy học liệu cần tìm trong danh sách | Đang xem ở màn hình có phạm vi hẹp hơn nơi chứa học liệu | Mở Resource ở màn hình cấu phần lớn hơn, hoặc dùng bộ lọc theo đúng cấu phần     |
+| Lỗi / Tình huống                            | Nguyên nhân                                              | Cách xử lý                                                                         |
+| ------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Không thấy học liệu cần tìm trong danh sách | Đang xem ở màn hình có phạm vi hẹp hơn nơi chứa học liệu | Mở Resource ở màn hình cấu phần lớn hơn, hoặc dùng bộ lọc theo đúng cấu phần       |
 | Không tải được học liệu về máy              | Lỗi kết nối tạm thời hoặc trình duyệt chặn tải xuống     | Kiểm tra kết nối/cài đặt trình duyệt và thử tải lại; liên hệ hỗ trợ UpBase nếu cần |

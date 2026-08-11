@@ -1,13 +1,6 @@
 ---
-cover: .gitbook/assets/Gitbook Cover_LMS (1).png
-coverY: 0
-coverHeight: 484
 layout:
   width: default
-  cover:
-    visible: true
-    size: hero
-    mask: none
   title:
     visible: true
   description:
@@ -28,6 +21,8 @@ metaLinks: {}
 ---
 
 # 💡 Welcome to LMS - UpBase
+
+<figure><img src=".gitbook/assets/Gitbook Cover_LMS (1).png" alt=""><figcaption></figcaption></figure>
 
 Chào mừng bạn đến với **Hệ thống học tập trực tuyến LMS - UpBase**. Đây là tài liệu hướng dẫn sử dụng (User Guide) dành cho **học viên**, giúp bạn thao tác thành thạo trên hệ thống — từ đăng nhập, học các khóa học, làm bài kiểm tra, đến theo dõi tiến độ và quản lý tài khoản.
 

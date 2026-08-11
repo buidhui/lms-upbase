@@ -1,12 +1,10 @@
 ---
-icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
 layout:
   width: default
   cover:
     visible: true
-    size: full
+    size: hero
     mask: none
   title:
     visible: true
@@ -27,7 +25,7 @@ layout:
 metaLinks: {}
 ---
 
-# Welcome to LMS - UpBase
+# 💡 Welcome to LMS - UpBase
 
 Chào mừng bạn đến với **Hệ thống học tập trực tuyến LMS - UpBase**. Đây là tài liệu hướng dẫn sử dụng (User Guide) dành cho **học viên**, giúp bạn thao tác thành thạo trên hệ thống — từ đăng nhập, học các khóa học, làm bài kiểm tra, đến theo dõi tiến độ và quản lý tài khoản.
 

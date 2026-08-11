@@ -1,17 +1,11 @@
-# Đăng nhập đăng xuất hệ thống
-
-## Record of changes
-
-_A - Add M - Modify D - Delete_
-
-<table><thead><tr><th width="149">Effective Date</th><th>Update Person</th><th>A,M,D</th><th>Change Description</th><th>Version</th></tr></thead><tbody><tr><td>Jun 26, 2026</td><td>Lê Thị Huế</td><td>M</td><td>Tách &#x26; chuẩn hóa nội dung lên GitBook</td><td>4.8.0</td></tr></tbody></table>
+# Đăng nhập & đăng xuất hệ thống
 
 ## I. Thông tin chung
 
 {% hint style="info" %}
 **Dành cho:** Học viên
 
-**Đường dẫn:** [http://lms-pro.sapp.edu.vn/auth/login](http://lms-pro.sapp.edu.vn/auth/login)
+**Đường dẫn:** [http://lms-upbase.edu.asia/auth/login](http://lms-upbase.edu.asia/auth/login)
 {% endhint %}
 
 {% hint style="info" %}
@@ -52,11 +46,11 @@ Tài liệu này hướng dẫn học viên các bước chi tiết để đăng
 {% step %}
 **Truy cập hệ thống**
 
-Truy cập hệ thống LMS Student theo link sau: [http://lms-pro.sapp.edu.vn/auth/login](http://lms-pro.sapp.edu.vn/auth/login)
+Truy cập hệ thống LMS Student theo link sau: [http://lms-upbase.edu.asia/auth/login](http://lms-upbase.edu.asia/auth/login)
 {% endstep %}
 
 {% step %}
-## Nhập thông tin đăng nhập
+**Nhập thông tin đăng nhập**
 
 * Username or Email (\*): nhập Username hoặc Email.
 * Password (\*): nhập mật khẩu.
@@ -73,11 +67,41 @@ Click **Login** để đăng nhập vào hệ thống.
 
 <figure><img src="../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
-Học viên chỉ có thể đăng nhập cùng 1 tài khoản trên tối đa 3 thiết bị. Nếu đăng nhập cùng tài khoản đó trên thiết bị thứ 4, học viên cần liên hệ với đội ngũ vận hành của SAPP theo hướng dẫn trên màn hình để được hỗ trợ.
+Học viên chỉ có thể đăng nhập cùng 1 tài khoản trên tối đa 3 thiết bị. Nếu đăng nhập cùng tài khoản đó trên thiết bị thứ 4, học viên cần liên hệ với đội ngũ vận hành của UpBase theo hướng dẫn trên màn hình để được hỗ trợ.
 
 <figure><img src="../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
+
+</details>
+
+<details>
+
+<summary>Đăng nhập lần đầu (Product Tour)</summary>
+
+Khi đăng nhập lần đầu thành công, hệ thống hiển thị phần hướng dẫn sử dụng (Product Tour) để giới thiệu giao diện.
+
+{% stepper %}
+{% step %}
+**Bắt đầu Product Tour**
+
+Tại hộp thoại chào mừng, chọn **Start Tour**.
+
+<figure><img src="../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+**Đi qua các hộp thoại hướng dẫn**
+
+Tại mỗi hộp thoại hướng dẫn, chọn **Next** để sang bước tiếp theo.
+
+<figure><img src="../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
+
+{% hint style="info" %}
+Product Tour chỉ hiển thị tự động ở lần đăng nhập đầu tiên. Nếu tài khoản đã đăng nhập trước đó, hộp thoại này sẽ không xuất hiện.
+{% endhint %}
 
 </details>
 
@@ -128,7 +152,7 @@ Người dùng bấm vào button "Đặt lại mật khẩu" trong email, lúc n
 {% endstep %}
 
 {% step %}
-## Xác nhận đổi mật khẩu
+**Xác nhận đổi mật khẩu**
 
 Chọn **Submit** để đổi mật khẩu. Nếu mật khẩu mới hợp lệ, màn hình thông báo đổi mật khẩu thành công và hệ thống điều hướng tới màn hình Login. Lúc này, học viên có thể sử dụng Email và mật khẩu mới để đăng nhập vào hệ thống.
 {% endstep %}
@@ -181,7 +205,7 @@ Click **Log out** để đăng xuất và chuyển hướng đến màn hình đ
 {% hint style="warning" %}
 ### Lưu ý quan trọng
 
-1. Mỗi tài khoản chỉ được đăng nhập đồng thời trên tối đa **3 thiết bị**. Khi đăng nhập trên thiết bị thứ 4, học viên cần liên hệ đội vận hành SAPP theo hướng dẫn trên màn hình.
+1. Mỗi tài khoản chỉ được đăng nhập đồng thời trên tối đa **3 thiết bị**. Khi đăng nhập trên thiết bị thứ 4, học viên cần liên hệ đội vận hành UpBase theo hướng dẫn trên màn hình.
 2. Mật khẩu mới phải tối thiểu **8 ký tự**, bao gồm ít nhất **1 chữ số** và **1 ký tự in hoa**; mật khẩu xác nhận phải trùng với mật khẩu mới.
 {% endhint %}
 
@@ -197,6 +221,6 @@ Click **Log out** để đăng xuất và chuyển hướng đến màn hình đ
 | Lỗi / Tình huống                       | Nguyên nhân                                              | Cách xử lý                                                                                          |
 | -------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | Invalid Email                          | Email nhập sai định dạng                                 | Nhập lại đúng định dạng email                                                                       |
-| Email does not exist                   | Email không tồn tại trong hệ thống                       | Kiểm tra lại email đăng ký, hoặc liên hệ đội vận hành SAPP                                          |
-| Không đăng nhập được trên thiết bị mới | Tài khoản đã đăng nhập trên đủ 3 thiết bị                | Liên hệ đội vận hành SAPP theo hướng dẫn trên màn hình để được hỗ trợ                               |
+| Email does not exist                   | Email không tồn tại trong hệ thống                       | Kiểm tra lại email đăng ký, hoặc liên hệ đội vận hành UpBase                                          |
+| Không đăng nhập được trên thiết bị mới | Tài khoản đã đăng nhập trên đủ 3 thiết bị                | Liên hệ đội vận hành UpBase theo hướng dẫn trên màn hình để được hỗ trợ                               |
 | Không đặt lại được mật khẩu            | Mật khẩu mới chưa đủ điều kiện hoặc xác nhận không trùng | Nhập mật khẩu tối thiểu 8 ký tự, có ít nhất 1 chữ số và 1 ký tự in hoa, đảm bảo xác nhận trùng khớp |

@@ -146,4 +146,4 @@ Sau khi hoàn thành 1 hoạt động, chọn **Next Activity/Previous Activity*
 | ----------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------- |
 | Không vào được nội dung học, hiển thị biểu tượng khóa | Khóa học thử, cấu phần bị giới hạn                 | Đăng ký mở full course hoặc liên hệ TVTS để được hỗ trợ                         |
 | Không thấy nút **Begin**, chỉ thấy nút **Activate**   | Khóa học có thời hạn linh động chưa được kích hoạt | Nhấn **Activate** để kích hoạt Khóa học, sau đó nhấn **Begin** để bắt đầu học   |
-| Không thấy Khóa học cần học tại màn hình My Course    | Khóa học chưa được đăng ký hoặc đã hết hạn         | Kiểm tra lại danh sách Khóa học đã đăng ký, liên hệ đội ngũ hỗ trợ SAPP nếu cần |
+| Không thấy Khóa học cần học tại màn hình My Course    | Khóa học chưa được đăng ký hoặc đã hết hạn         | Kiểm tra lại danh sách Khóa học đã đăng ký, liên hệ đội ngũ hỗ trợ UpBase nếu cần |

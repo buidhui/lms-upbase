@@ -1,19 +1,11 @@
 # Xem thông báo
 
-## Record of changes
-
-\*A - Add M - Modify D - Delete
-
-| Effective Date | Update Person | A,M,D | Change Description             | Version |
-| -------------- | ------------- | ----- | ------------------------------ | ------- |
-| Jun 26, 2026   | Lê Thị Huế    | M     | Chuẩn hóa nội dung lên GitBook | 4.8.0   |
-
 ## I. Thông tin chung
 
 {% hint style="info" %}
 **Dành cho:** Học viên
 
-**Đường dẫn:** [http://lms-pro.sapp.edu.vn](http://lms-pro.sapp.edu.vn/)
+**Đường dẫn:** [http://lms-upbase.edu.asia](http://lms-upbase.edu.asia/)
 {% endhint %}
 
 {% hint style="info" %}

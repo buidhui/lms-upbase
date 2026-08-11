@@ -138,7 +138,7 @@ Mở danh sách Timeline của Video bằng cách click vào nút Timeline.
 {% endstep %}
 
 {% step %}
-## Chọn mốc thời gian muốn xem
+**Chọn mốc thời gian muốn xem**
 
 Nhấp vào mốc thời gian với nội dung mà học viên muốn xem, Video sẽ tự động chạy ở mốc thời gian đó.
 

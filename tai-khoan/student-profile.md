@@ -1,19 +1,11 @@
 # Student profile
 
-## Record of changes
-
-_A - Add M - Modify D - Delete_
-
-| Effective Date | Update Person | A,M,D | Change Description             | Version |
-| -------------- | ------------- | ----- | ------------------------------ | ------- |
-| Jun 26, 2026   | Lê Thị Huế    | M     | Chuẩn hóa nội dung lên GitBook | 4.8.0   |
-
 ## I. Thông tin chung
 
 {% hint style="info" %}
 **Dành cho:** Học viên
 
-**Đường dẫn:** [https://lms-pro.sapp.edu.vn/overview](https://lms-pro.sapp.edu.vn/overview)
+**Đường dẫn:** [https://lms-upbase.edu.asia/overview](https://lms-upbase.edu.asia/overview)
 {% endhint %}
 
 {% hint style="info" %}
@@ -64,7 +56,7 @@ Thông tin bao gồm:
 * Loại tài khoản (Role): Học viên
 * Trạng thái tài khoản (Status)
 * Thời gian cập nhật (Updated at)
-* Danh sách hồ sơ (Profile): danh sách Email mà học viên đã đăng ký với SAPP mà sử dụng cùng số điện thoại. Email được đánh dấu "Default" sẽ là Email chính mà hệ thống sử dụng để gửi các thông báo tới học viên.
+* Danh sách hồ sơ (Profile): danh sách Email mà học viên đã đăng ký với UpBase mà sử dụng cùng số điện thoại. Email được đánh dấu "Default" sẽ là Email chính mà hệ thống sử dụng để gửi các thông báo tới học viên.
 
 <figure><img src="../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -100,7 +92,7 @@ Tại màn hình thông tin chi tiết của tài khoản, click **My Profile > 
 {% endstep %}
 
 {% step %}
-## Lưu thông tin
+**Lưu thông tin**
 
 Click **Confirm** để lưu thông tin.
 
@@ -122,7 +114,7 @@ Click **Confirm** để lưu thông tin.
 {% hint style="info" %}
 ### Mẹo sử dụng
 
-1. Danh sách hồ sơ (Profile) hiển thị các Email đã đăng ký với SAPP dùng cùng số điện thoại.
+1. Danh sách hồ sơ (Profile) hiển thị các Email đã đăng ký với UpBase dùng cùng số điện thoại.
 2. Nhớ bấm **Confirm** sau khi chỉnh sửa để lưu thay đổi.
 {% endhint %}
 

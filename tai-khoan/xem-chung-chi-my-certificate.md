@@ -1,17 +1,11 @@
 # Xem chứng chỉ (My certificate)
 
-## Record of changes
-
-\*A - Add M - Modify D - Delete
-
-<table><thead><tr><th>Effective Date</th><th>Update Person</th><th width="150">A,M,D</th><th>Change Description</th><th>Version</th></tr></thead><tbody><tr><td>Jun 26, 2026</td><td>Lê Thị Huế</td><td>M</td><td>Chuẩn hóa nội dung lên GitBook</td><td>4.8.0</td></tr></tbody></table>
-
 ## I. Thông tin chung
 
 {% hint style="info" %}
 **Dành cho:** Học viên
 
-**Đường dẫn:** [https://lms-pro.sapp.edu.vn/overview](https://lms-pro.sapp.edu.vn/overview)
+**Đường dẫn:** [https://lms-upbase.edu.asia/overview](https://lms-upbase.edu.asia/overview)
 {% endhint %}
 
 {% hint style="info" %}

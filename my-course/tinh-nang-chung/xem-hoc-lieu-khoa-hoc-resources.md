@@ -108,4 +108,4 @@ Khi nhập mỗi một trường thông tin, hệ thống sẽ tự động tìm
 | Lỗi / Tình huống                            | Nguyên nhân                                              | Cách xử lý                                                                       |
 | ------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | Không thấy học liệu cần tìm trong danh sách | Đang xem ở màn hình có phạm vi hẹp hơn nơi chứa học liệu | Mở Resource ở màn hình cấu phần lớn hơn, hoặc dùng bộ lọc theo đúng cấu phần     |
-| Không tải được học liệu về máy              | Lỗi kết nối tạm thời hoặc trình duyệt chặn tải xuống     | Kiểm tra kết nối/cài đặt trình duyệt và thử tải lại; liên hệ hỗ trợ SAPP nếu cần |
+| Không tải được học liệu về máy              | Lỗi kết nối tạm thời hoặc trình duyệt chặn tải xuống     | Kiểm tra kết nối/cài đặt trình duyệt và thử tải lại; liên hệ hỗ trợ UpBase nếu cần |

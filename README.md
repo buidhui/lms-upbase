@@ -1,5 +1,4 @@
 ---
-icon: hand-wave
 coverY: 0
 layout:
   width: default
@@ -26,7 +25,7 @@ layout:
 metaLinks: {}
 ---
 
-# Welcome to LMS - UpBase
+# 💡 Welcome to LMS - UpBase
 
 (Giới thiệu tổng quan gitbook User Guide)
 

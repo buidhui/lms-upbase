@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to LMS - UpBase](README.md)
+* [💡 Welcome to LMS - UpBase](README.md)
 * [Khoá học](my-course/README.md)
   * [Danh sách khóa học](my-course/xem-danh-sach-khoa-hoc.md)
   * [Nội dung khoá học](my-course/khoa-lesson-foundation-revision/README.md)

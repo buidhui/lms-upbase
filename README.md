@@ -19,7 +19,7 @@ layout:
   pagination:
     visible: true
   metadata:
-    visible: false
+    visible: true
   tags:
     visible: true
   actions:

@@ -1,5 +1,7 @@
 ---
+cover: .gitbook/assets/Gitbook Cover_LMS (1).png
 coverY: 0
+coverHeight: 310
 layout:
   width: default
   cover:
@@ -34,10 +36,10 @@ Tài liệu được sắp xếp theo hành trình sử dụng. Bạn có thể 
 ### Bắt đầu nhanh
 
 * [**Đăng nhập & Đăng xuất**](tai-khoan/dang-nhap-dang-xuat.md) — Đăng nhập lần đầu, quên mật khẩu và các thao tác tài khoản cơ bản để vào hệ thống.
-* [**Khoá học**](khoa-hoc/README.md) — Xem danh sách khóa học đã đăng ký và học nội dung chi tiết của từng khóa.
+* [**Khoá học**](khoa-hoc/) — Xem danh sách khóa học đã đăng ký và học nội dung chi tiết của từng khóa.
 * [**Thông báo**](thong-bao.md) — Theo dõi các thông báo từ hệ thống (kết quả bài kiểm tra, phản hồi thảo luận…).
 * [**Danh sách chứng chỉ**](danh-sach-chung-chi.md) — Xem, chia sẻ và tải các chứng chỉ bạn đã đạt được.
-* [**Tài khoản**](tai-khoan/README.md) — Quản lý thông tin cá nhân và bảo mật tài khoản.
+* [**Tài khoản**](tai-khoan/) — Quản lý thông tin cá nhân và bảo mật tài khoản.
 
 {% hint style="info" %}
 Nếu không tìm thấy khóa học hoặc gặp sự cố khi sử dụng, vui lòng liên hệ đội ngũ hỗ trợ của UpBase để được trợ giúp.

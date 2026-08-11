@@ -1,7 +1,7 @@
 ---
 cover: .gitbook/assets/Gitbook Cover_LMS (1).png
 coverY: 0
-coverHeight: 310
+coverHeight: 484
 layout:
   width: default
   cover:
@@ -19,7 +19,7 @@ layout:
   pagination:
     visible: true
   metadata:
-    visible: true
+    visible: false
   tags:
     visible: true
   actions:

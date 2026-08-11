@@ -2,7 +2,7 @@
 description: Tổng quan các dạng bài kiểm tra và các thành phần dùng chung khi làm bài.
 ---
 
-# Làm bài kiểm tra
+# Hoạt động kiểm tra
 
 ## I. Thông tin chung
 

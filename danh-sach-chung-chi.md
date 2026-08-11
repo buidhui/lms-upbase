@@ -1,4 +1,4 @@
-# Xem chứng chỉ (My certificate)
+# Danh sách chứng chỉ
 
 ## I. Thông tin chung
 

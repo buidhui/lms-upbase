@@ -8,6 +8,6 @@ Khi vào học một khóa, nội dung được tổ chức thành các hoạt �
 
 ### Nội dung trong mục này
 
-* [**Hoạt động học**](hoc-noi-dung-bai-hoc.md) — Cách học nội dung bài học: điều hướng giữa các chủ đề, chương, unit và hoạt động học tập.
-* [**Hoạt động kiểm tra**](lam-bai-kiem-tra/README.md) — Làm các dạng bài đánh giá: Test, Quiz và Case Study.
+* [**Hoạt động học**](hoat-dong-hoc.md) — Cách học nội dung bài học: điều hướng giữa các chủ đề, chương, unit và hoạt động học tập.
+* [**Hoạt động kiểm tra**](hoat-dong-kiem-tra/README.md) — Làm các dạng bài đánh giá: Test, Quiz và Case Study.
 * [**Tính năng chung**](tinh-nang-chung/README.md) — Các công cụ hỗ trợ trong quá trình học: video, dashboard, ghi chú, tài liệu, thảo luận.

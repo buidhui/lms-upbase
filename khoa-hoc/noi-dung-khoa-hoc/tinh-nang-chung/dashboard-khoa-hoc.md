@@ -2,7 +2,7 @@
 description: Theo dõi tiến độ và kết quả học tập của khóa học qua các biểu đồ Dashboard.
 ---
 
-# Dashboard tiến độ học
+# Dashboard khoá học
 
 ## I. Thông tin chung
 

@@ -1,4 +1,4 @@
-# Xem thông báo
+# Thông báo
 
 ## I. Thông tin chung
 

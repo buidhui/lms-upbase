@@ -1,4 +1,4 @@
-# Xem danh sách khóa học
+# Danh sách khóa học
 
 ## I. Thông tin chung
 

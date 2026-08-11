@@ -2,5 +2,5 @@
 description: (Tổng quan)
 ---
 
-# My Course
+# Khoá học
 

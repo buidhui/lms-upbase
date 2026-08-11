@@ -35,7 +35,7 @@
 
 Sau khi đăng nhập hệ thống thành công, học viên chọn màn hình **My Course** để xem tất cả những khóa học mà học viên đã đăng ký.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Tại màn hình này, học viên sẽ thấy thông tin cụ thể của từng Khóa học:
 
@@ -57,7 +57,7 @@ Tại màn hình này, học viên sẽ thấy thông tin cụ thể của từn
 {% step %}
 **Nhập tên Khóa học vào thanh tìm kiếm**
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -67,7 +67,7 @@ Sau khi nhập, đợi **3–5 giây** hoặc nhấn **Enter**, hệ thống s�
 
 _Kết quả tìm kiếm Khóa học theo tên_
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -85,11 +85,11 @@ Tại màn hình **My Course**, học viên nhấp vào nút **Filter** theo **C
 
 _Bộ lọc theo Chương trình học_
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 _Bộ lọc theo Trạng thái của Khóa học_
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -99,7 +99,7 @@ Chọn **Chương trình** hoặc **Trạng thái** muốn xem để lọc các 
 
 _Kết quả sau khi lọc theo điều kiện_
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 💡 **Mẹo:** Học viên có thể sử dụng **kết hợp** chức năng _Tìm kiếm Khóa học theo tên_ và _Lọc Khóa học theo điều kiện cho trước_ để thu hẹp kết quả nhanh hơn.

@@ -43,13 +43,13 @@ Sau khi đăng nhập thành công vào hệ thống, học viên click vào bi�
 * Học viên chọn thẻ **All** để xem toàn bộ thông báo.
 * Học viên chọn thẻ **Unread** để xem các thông báo chưa đọc.
 
-<figure><img src="../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
 
 Để đánh dấu "Đã đọc" cho các thông báo chưa đọc, chọn biểu tượng tùy chọn và chọn **Mark as all read**.
 
-<figure><img src="../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -57,19 +57,19 @@ Sau khi đăng nhập thành công vào hệ thống, học viên click vào bi�
 
 Click vào thông báo để xem chi tiết nội dung thông báo.
 
-<figure><img src="../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
 
 Đối với các thông báo có tính điều hướng:
 
 * Thông báo hoàn thành bài kiểm tra: Click vào **Nhấn để xem kết quả** để chuyển đến màn hình kết quả của bài kiểm tra.
 
-<figure><img src="../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
 
 * Thông báo khi có học viên khác trả lời bình luận trong hoạt động học tập: Click vào thông báo để chuyển hướng đến bình luận đó.
 
-<figure><img src="../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

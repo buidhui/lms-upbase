@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: false
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Bảo mật tài khoản
 
 ## I. Thông tin chung
@@ -67,7 +88,7 @@ Tại màn hình thông tin chi tiết của tài khoản, click **Security > Lo
 
 ## IV. Các Lỗi Thường Gặp & Cách Xử Lý
 
-| Lỗi / Tình huống                               | Nguyên nhân                                        | Cách xử lý                                                    |
-| ---------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------- |
+| Lỗi / Tình huống                               | Nguyên nhân                                        | Cách xử lý                                                      |
+| ---------------------------------------------- | -------------------------------------------------- | --------------------------------------------------------------- |
 | Xuất hiện thiết bị lạ trong danh sách Browsers | Tài khoản có thể đã bị đăng nhập trái phép         | Đổi mật khẩu ngay và liên hệ đội vận hành UpBase để được hỗ trợ |
 | Lịch sử đăng nhập có IP/địa điểm bất thường    | Có lượt đăng nhập không phải do học viên thực hiện | Kiểm tra, đổi mật khẩu và liên hệ đội vận hành UpBase           |

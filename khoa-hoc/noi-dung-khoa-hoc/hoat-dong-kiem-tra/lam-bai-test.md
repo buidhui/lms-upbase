@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: false
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Làm bài Test
 
 ## I. Thông tin chung
@@ -12,7 +33,7 @@
 #### Điều kiện tiên quyết:
 
 * Học viên đã đăng ký khóa học và đăng nhập hệ thống thành công.
-* Đã xem [Giao diện & công cụ khi làm bài](README.md) để nắm các thành phần dùng chung.
+* Đã xem [Giao diện & công cụ khi làm bài](./) để nắm các thành phần dùng chung.
 {% endhint %}
 
 Áp dụng cho các loại bài Test: **Part/Topic Test, Chapter/Module Test, Midterm Test, Final Test, Mocktest.**
@@ -45,12 +66,12 @@ Tùy loại bài, học viên thao tác bắt đầu như sau:
 
 Giao diện bài Test hiển thị, học viên thực hiện làm lần lượt các câu hỏi.
 
-Các thành phần giao diện, công cụ hỗ trợ (Scratch Pad, Calculator, Flag to Review, Highlight…) và các dạng câu hỏi được mô tả chung tại [Giao diện & công cụ khi làm bài](README.md).
+Các thành phần giao diện, công cụ hỗ trợ (Scratch Pad, Calculator, Flag to Review, Highlight…) và các dạng câu hỏi được mô tả chung tại [Giao diện & công cụ khi làm bài](./).
 
 <figure><img src="../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Với câu hỏi có sẵn **Answer Template**, học viên làm trực tiếp vào template Word/Excel. Xem cách dùng **Show / Reset Answer Template** tại [phần Answer Template](README.md#iv.-answer-template-word-excel).
+Với câu hỏi có sẵn **Answer Template**, học viên làm trực tiếp vào template Word/Excel. Xem cách dùng **Show / Reset Answer Template** tại [phần Answer Template](./#iv.-answer-template-word-excel).
 {% endhint %}
 {% endstep %}
 
@@ -132,13 +153,13 @@ Nếu đồng hồ đếm ngược trên hộp thoại chạy về 00:00:00, h�
 
 1. Khi hết thời gian làm bài, hệ thống tự động nộp bài dựa trên các câu trả lời đã làm, kể cả khi chưa chọn **Finish**.
 2. Tính năng tiếp tục bài bị gián đoạn chỉ áp dụng cho Chapter/Module Test, Part/Topic Test, Midterm Test, Final Test, Mocktest.
-3. Xem thêm quy tắc chung về Scratch Pad và Answer Template tại trang [Làm bài kiểm tra](README.md).
+3. Xem thêm quy tắc chung về Scratch Pad và Answer Template tại trang [Làm bài kiểm tra](./).
 {% endhint %}
 
 ## IV. Các Lỗi Thường Gặp & Cách Xử Lý
 
-| Lỗi / Tình huống | Nguyên nhân | Cách xử lý |
-| --- | --- | --- |
-| Bài thi bị nộp khi chưa hoàn thành | Hết thời gian làm bài, hệ thống tự động nộp | Quản lý thời gian; theo dõi đồng hồ đếm ngược trên giao diện |
-| Mất bài làm sau khi tải lại trang / thoát giao diện | Quá trình làm bài bị gián đoạn | Mở lại bài kiểm tra và chọn **Continue / Continue the previous attempt** để tiếp tục |
-| Mất toàn bộ bước đã làm của câu hỏi | Đã chọn **Reset to Answer Template > Confirm** | Thao tác reset không thể hoàn tác; chỉ reset khi thực sự cần làm lại từ template gốc |
+| Lỗi / Tình huống                                    | Nguyên nhân                                    | Cách xử lý                                                                           |
+| --------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Bài thi bị nộp khi chưa hoàn thành                  | Hết thời gian làm bài, hệ thống tự động nộp    | Quản lý thời gian; theo dõi đồng hồ đếm ngược trên giao diện                         |
+| Mất bài làm sau khi tải lại trang / thoát giao diện | Quá trình làm bài bị gián đoạn                 | Mở lại bài kiểm tra và chọn **Continue / Continue the previous attempt** để tiếp tục |
+| Mất toàn bộ bước đã làm của câu hỏi                 | Đã chọn **Reset to Answer Template > Confirm** | Thao tác reset không thể hoàn tác; chỉ reset khi thực sự cần làm lại từ template gốc |

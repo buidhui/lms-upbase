@@ -1,5 +1,23 @@
 ---
 description: Theo dõi tiến độ và kết quả học tập của khóa học qua các biểu đồ Dashboard.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: false
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Dashboard khoá học
@@ -31,12 +49,12 @@ description: Theo dõi tiến độ và kết quả học tập của khóa họ
 
 Màn hình **Dashboard** hiển thị các biểu đồ theo dõi tiến độ và kết quả học tập của học viên trong Khóa học.
 
-| Biểu đồ | Mô tả |
-| --- | --- |
-| **Overall Progress** | Tiến độ học tập tổng thể của học viên trong Khóa học. |
-| **This Week** | So sánh số Activities hoàn thiện & thời gian học (Learning times) của tuần này với tuần liền trước. |
-| **Topic Progress** | Tiến độ học theo từng Section. Mỗi cột tương ứng với một Section. |
-| **Your Learning Results** | Kết quả học tập theo Section, tính dựa trên kết quả các bài test. |
+| Biểu đồ                   | Mô tả                                                                                               |
+| ------------------------- | --------------------------------------------------------------------------------------------------- |
+| **Overall Progress**      | Tiến độ học tập tổng thể của học viên trong Khóa học.                                               |
+| **This Week**             | So sánh số Activities hoàn thiện & thời gian học (Learning times) của tuần này với tuần liền trước. |
+| **Topic Progress**        | Tiến độ học theo từng Section. Mỗi cột tương ứng với một Section.                                   |
+| **Your Learning Results** | Kết quả học tập theo Section, tính dựa trên kết quả các bài test.                                   |
 
 ## III. Hướng dẫn chi tiết
 
@@ -118,8 +136,6 @@ Khi học viên click **Your Learning Results**, hệ thống hiển thị công
 Ở giữa biểu đồ là **Điểm trung bình tổng thể (Overall average score)** — trung bình kết quả của tất cả các Section đã ghi nhận điểm thành phần.
 
 <figure><img src="../../../.gitbook/assets/image (248).png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-{% endstepper %}
 
 </details>
 
@@ -148,12 +164,12 @@ Khi học viên click **Your Learning Results**, hệ thống hiển thị công
 
 ## V. Các Lỗi Thường Gặp & Cách Xử Lý
 
-| Lỗi / Tình huống | Nguyên nhân | Cách xử lý |
-| --- | --- | --- |
-| Click vào Lớp nhưng không hiển thị Dashboard | Lớp đang có Status = **Ready to learn** | Hoàn thành ít nhất một Activity để Lớp chuyển sang Status = Resume; Dashboard sẽ hiển thị. |
-| **Overall Progress** không tăng dù đã học | Activities chưa được đánh dấu hoàn thành | Kiểm tra trạng thái Completed của từng Activity; hoàn thiện các Activity còn dở. |
-| **This Week** vẫn hiển thị _"More activities…"_ | Số Activities/thời gian học tuần này chưa vượt tuần trước | Tiếp tục học để vượt kết quả tuần trước; thông báo sẽ tự cập nhật. |
-| **Topic Progress** một Section vẫn = 0% dù đã học | Activity hoàn thành nằm ngoài Section đó, hoặc Section còn Activity chưa hoàn thành | Kiểm tra danh sách Activity của Section trong Course Content và hoàn thiện đầy đủ. |
-| **Your Learning Results** không có dữ liệu cho một Section | Học viên chưa làm bài test nào của Section đó | Hoàn thành các bài test tương ứng của Section. |
-| Điểm Learning Results khác với điểm khi làm bài | Công thức tính theo chương trình kết hợp nhiều loại test với trọng số khác nhau | Click vào **Your Learning Results** để xem công thức chi tiết. |
-| **Overall average score** thấp hơn dự kiến | Các Section có điểm thấp kéo trung bình xuống | Xem Topic Progress để xác định Section yếu, ưu tiên làm lại bài test các Section đó. |
+| Lỗi / Tình huống                                           | Nguyên nhân                                                                         | Cách xử lý                                                                                 |
+| ---------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Click vào Lớp nhưng không hiển thị Dashboard               | Lớp đang có Status = **Ready to learn**                                             | Hoàn thành ít nhất một Activity để Lớp chuyển sang Status = Resume; Dashboard sẽ hiển thị. |
+| **Overall Progress** không tăng dù đã học                  | Activities chưa được đánh dấu hoàn thành                                            | Kiểm tra trạng thái Completed của từng Activity; hoàn thiện các Activity còn dở.           |
+| **This Week** vẫn hiển thị _"More activities…"_            | Số Activities/thời gian học tuần này chưa vượt tuần trước                           | Tiếp tục học để vượt kết quả tuần trước; thông báo sẽ tự cập nhật.                         |
+| **Topic Progress** một Section vẫn = 0% dù đã học          | Activity hoàn thành nằm ngoài Section đó, hoặc Section còn Activity chưa hoàn thành | Kiểm tra danh sách Activity của Section trong Course Content và hoàn thiện đầy đủ.         |
+| **Your Learning Results** không có dữ liệu cho một Section | Học viên chưa làm bài test nào của Section đó                                       | Hoàn thành các bài test tương ứng của Section.                                             |
+| Điểm Learning Results khác với điểm khi làm bài            | Công thức tính theo chương trình kết hợp nhiều loại test với trọng số khác nhau     | Click vào **Your Learning Results** để xem công thức chi tiết.                             |
+| **Overall average score** thấp hơn dự kiến                 | Các Section có điểm thấp kéo trung bình xuống                                       | Xem Topic Progress để xác định Section yếu, ưu tiên làm lại bài test các Section đó.       |

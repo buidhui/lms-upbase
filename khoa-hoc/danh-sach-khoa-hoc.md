@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: false
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Danh sách khóa học
 
 ## I. Thông tin chung
@@ -135,12 +156,12 @@ _Kết quả sau khi lọc theo điều kiện_
 
 ## IV. Các Lỗi Thường Gặp & Cách Xử Lý
 
-| Lỗi / Tình huống                                                 | Nguyên nhân                                                                     | Cách xử lý                                                                                                            |
-| ---------------------------------------------------------------- | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Lỗi / Tình huống                                                 | Nguyên nhân                                                                     | Cách xử lý                                                                                                              |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | Không thấy bất kỳ khóa học nào trong My Course                   | Tài khoản chưa được gán vào lớp / chưa hoàn tất đăng ký khóa học                | Liên hệ phòng tư vấn của UpBase để kiểm tra tình trạng đăng ký và gán lớp.                                              |
-| Tìm kiếm theo tên không trả về kết quả mong đợi                  | Nhập sai chính tả hoặc tên khóa học khác với tên hiển thị trên hệ thống         | Kiểm tra lại chính tả; thử nhập từ khóa ngắn hơn (chỉ một phần tên); kết hợp dùng bộ lọc theo Chương trình.           |
-| Đã lọc nhưng vẫn không thấy khóa học cần tìm                     | Điều kiện lọc quá hẹp hoặc khóa học không thuộc Chương trình/Trạng thái đã chọn | Bỏ bớt điều kiện lọc, hoặc reset bộ lọc rồi thử lại với các điều kiện khác.                                           |
+| Tìm kiếm theo tên không trả về kết quả mong đợi                  | Nhập sai chính tả hoặc tên khóa học khác với tên hiển thị trên hệ thống         | Kiểm tra lại chính tả; thử nhập từ khóa ngắn hơn (chỉ một phần tên); kết hợp dùng bộ lọc theo Chương trình.             |
+| Đã lọc nhưng vẫn không thấy khóa học cần tìm                     | Điều kiện lọc quá hẹp hoặc khóa học không thuộc Chương trình/Trạng thái đã chọn | Bỏ bớt điều kiện lọc, hoặc reset bộ lọc rồi thử lại với các điều kiện khác.                                             |
 | Thông tin **Thời hạn còn lại** hiển thị "0 ngày" hoặc đã hết hạn | Khóa học đã hết thời hạn truy cập                                               | Với khóa học thử: click **Extend** để gia hạn lần đầu. Với khóa học khác: liên hệ đội ngũ hỗ trợ UpBase để được hỗ trợ. |
 | Khóa học thử không có nút Extend khi hết hạn                     | Khóa học thử đã được Extend trước đó (chỉ được gia hạn tự động 1 lần)           | Liên hệ với đội ngũ hỗ trợ UpBase để được hỗ trợ tiếp tục gia hạn.                                                      |
-| Tiến độ học không cập nhật dù đã hoàn thành Activity             | Activity chưa được đánh dấu Completed hoặc cần tải lại trang                    | Hoàn thành lại Activity và đảm bảo có nút Completed hiển thị; tải lại trang My Course để cập nhật.                    |
-| Bộ lọc bị "kẹt" hiển thị danh sách trống                         | Lọc kết hợp nhiều điều kiện không có khóa học nào thỏa mãn                      | Click bỏ chọn từng điều kiện trong bộ lọc, hoặc tải lại trang để reset.                                               |
+| Tiến độ học không cập nhật dù đã hoàn thành Activity             | Activity chưa được đánh dấu Completed hoặc cần tải lại trang                    | Hoàn thành lại Activity và đảm bảo có nút Completed hiển thị; tải lại trang My Course để cập nhật.                      |
+| Bộ lọc bị "kẹt" hiển thị danh sách trống                         | Lọc kết hợp nhiều điều kiện không có khóa học nào thỏa mãn                      | Click bỏ chọn từng điều kiện trong bộ lọc, hoặc tải lại trang để reset.                                                 |

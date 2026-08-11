@@ -1,6 +1,6 @@
 # Table of contents
 
-* [💡 Welcome to LMS - UpBase](README.md)
+* [Welcome to LMS - UpBase](README.md)
 * [Khoá học](khoa-hoc/README.md)
   * [Danh sách khóa học](khoa-hoc/danh-sach-khoa-hoc.md)
   * [Nội dung khoá học](khoa-hoc/noi-dung-khoa-hoc/README.md)
@@ -14,8 +14,8 @@
       * [Dashboard khoá học](khoa-hoc/noi-dung-khoa-hoc/tinh-nang-chung/dashboard-khoa-hoc.md)
       * [Tính năng Ghi chú](khoa-hoc/noi-dung-khoa-hoc/tinh-nang-chung/tinh-nang-ghi-chu.md)
       * [Tài liệu khoá học](khoa-hoc/noi-dung-khoa-hoc/tinh-nang-chung/tai-lieu-khoa-hoc.md)
-      * [Thảo luận](khoa-hoc/noi-dung-khoa-hoc/tinh-nang-chung/thao-luan.md)
       * [Tài liệu lớp học](khoa-hoc/noi-dung-khoa-hoc/tinh-nang-chung/tai-lieu-lop-hoc.md)
+      * [Thảo luận](khoa-hoc/noi-dung-khoa-hoc/tinh-nang-chung/thao-luan.md)
 * [Thông báo](thong-bao.md)
 * [Danh sách chứng chỉ](danh-sach-chung-chi.md)
 * [Tài khoản](tai-khoan/README.md)

@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: false
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Đăng nhập & Đăng xuất
 
 ## I. Thông tin chung
@@ -221,6 +242,6 @@ Click **Log out** để đăng xuất và chuyển hướng đến màn hình đ
 | Lỗi / Tình huống                       | Nguyên nhân                                              | Cách xử lý                                                                                          |
 | -------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | Invalid Email                          | Email nhập sai định dạng                                 | Nhập lại đúng định dạng email                                                                       |
-| Email does not exist                   | Email không tồn tại trong hệ thống                       | Kiểm tra lại email đăng ký, hoặc liên hệ đội vận hành UpBase                                          |
-| Không đăng nhập được trên thiết bị mới | Tài khoản đã đăng nhập trên đủ 3 thiết bị                | Liên hệ đội vận hành UpBase theo hướng dẫn trên màn hình để được hỗ trợ                               |
+| Email does not exist                   | Email không tồn tại trong hệ thống                       | Kiểm tra lại email đăng ký, hoặc liên hệ đội vận hành UpBase                                        |
+| Không đăng nhập được trên thiết bị mới | Tài khoản đã đăng nhập trên đủ 3 thiết bị                | Liên hệ đội vận hành UpBase theo hướng dẫn trên màn hình để được hỗ trợ                             |
 | Không đặt lại được mật khẩu            | Mật khẩu mới chưa đủ điều kiện hoặc xác nhận không trùng | Nhập mật khẩu tối thiểu 8 ký tự, có ít nhất 1 chữ số và 1 ký tự in hoa, đảm bảo xác nhận trùng khớp |

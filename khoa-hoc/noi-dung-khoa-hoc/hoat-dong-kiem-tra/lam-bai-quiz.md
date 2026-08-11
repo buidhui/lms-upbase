@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: false
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Làm bài Quiz
 
 ## I. Thông tin chung
@@ -12,7 +33,7 @@
 #### Điều kiện tiên quyết:
 
 * Học viên đã đăng ký khóa học và đăng nhập hệ thống thành công.
-* Đã xem [Giao diện & công cụ khi làm bài](README.md) để nắm các thành phần dùng chung.
+* Đã xem [Giao diện & công cụ khi làm bài](./) để nắm các thành phần dùng chung.
 {% endhint %}
 
 Quiz là các câu hỏi bổ trợ nằm trong hoạt động học tập (Activity), giúp học viên củng cố kiến thức.
@@ -34,7 +55,7 @@ Tại hoạt động học tập có chứa câu hỏi bổ trợ, học viên t
 {% hint style="info" %}
 Nhấp **<** / **>** để chuyển giữa các câu hỏi.
 
-Với câu hỏi có sẵn **Answer Template**, học viên làm trực tiếp vào template Word/Excel. Xem cách dùng **Show / Reset Answer Template** tại [phần Answer Template](README.md#iv.-answer-template-word-excel).
+Với câu hỏi có sẵn **Answer Template**, học viên làm trực tiếp vào template Word/Excel. Xem cách dùng **Show / Reset Answer Template** tại [phần Answer Template](./#iv.-answer-template-word-excel).
 {% endhint %}
 {% endstep %}
 
@@ -90,7 +111,7 @@ Click vào tên câu hỏi để xem đáp án chi tiết và lời giải.
 
 ## IV. Các Lỗi Thường Gặp & Cách Xử Lý
 
-| Lỗi / Tình huống | Nguyên nhân | Cách xử lý |
-| --- | --- | --- |
-| Không thấy nút **Submit & View Answer** | Quiz thuộc loại hiển thị đáp án sau khi nộp bài | Dùng **Next Question** để chuyển câu; đáp án hiển thị sau khi nộp toàn bài |
-| Mất toàn bộ bước đã làm của câu hỏi | Đã chọn **Reset to Answer Template > Confirm** | Thao tác reset không thể hoàn tác; chỉ reset khi thực sự cần làm lại từ template gốc |
+| Lỗi / Tình huống                        | Nguyên nhân                                     | Cách xử lý                                                                           |
+| --------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Không thấy nút **Submit & View Answer** | Quiz thuộc loại hiển thị đáp án sau khi nộp bài | Dùng **Next Question** để chuyển câu; đáp án hiển thị sau khi nộp toàn bài           |
+| Mất toàn bộ bước đã làm của câu hỏi     | Đã chọn **Reset to Answer Template > Confirm**  | Thao tác reset không thể hoàn tác; chỉ reset khi thực sự cần làm lại từ template gốc |

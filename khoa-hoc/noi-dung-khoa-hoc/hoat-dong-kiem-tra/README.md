@@ -1,5 +1,23 @@
 ---
 description: Tổng quan các dạng bài kiểm tra và các thành phần dùng chung khi làm bài.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: false
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Hoạt động kiểm tra
@@ -31,11 +49,11 @@ description: Tổng quan các dạng bài kiểm tra và các thành phần dùn
 
 Hệ thống có 3 dạng bài kiểm tra, mỗi dạng có cách làm và quy tắc riêng — xem hướng dẫn chi tiết ở từng trang:
 
-| Dạng bài | Mô tả ngắn | Hướng dẫn |
-| --- | --- | --- |
-| **Test** | Bài kiểm tra chính thức, gồm Part/Topic Test, Chapter/Module Test, Midterm Test, Final Test, Mocktest. Hỗ trợ tiếp tục khi bị gián đoạn. | [Làm bài Test](lam-bai-test.md) |
-| **Quiz** | Câu hỏi bổ trợ nằm trong hoạt động học tập (Activity), giúp củng cố kiến thức. | [Làm bài Quiz](lam-bai-quiz.md) |
-| **Case Study** | Bài tập tình huống, chỉ có **1 lượt làm duy nhất** và **không tính điểm**. | [Làm Case Study](lam-case-study.md) |
+| Dạng bài       | Mô tả ngắn                                                                                                                               | Hướng dẫn                           |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| **Test**       | Bài kiểm tra chính thức, gồm Part/Topic Test, Chapter/Module Test, Midterm Test, Final Test, Mocktest. Hỗ trợ tiếp tục khi bị gián đoạn. | [Làm bài Test](lam-bai-test.md)     |
+| **Quiz**       | Câu hỏi bổ trợ nằm trong hoạt động học tập (Activity), giúp củng cố kiến thức.                                                           | [Làm bài Quiz](lam-bai-quiz.md)     |
+| **Case Study** | Bài tập tình huống, chỉ có **1 lượt làm duy nhất** và **không tính điểm**.                                                               | [Làm Case Study](lam-case-study.md) |
 
 Các phần bên dưới mô tả những thành phần **dùng chung** cho cả 3 dạng bài — các trang chi tiết sẽ tham chiếu về đây thay vì lặp lại.
 
@@ -45,22 +63,22 @@ Câu hỏi có thể hiển thị dưới **2 bố cục**: dạng **1 cột** (
 
 Các công cụ hỗ trợ trên giao diện làm bài:
 
-| Công cụ | Chức năng |
-| --- | --- |
-| **Danh sách câu hỏi** | Xem và chuyển nhanh giữa các câu hỏi |
-| **Bộ lọc câu hỏi** | Lọc theo: chưa làm (Unattempted), đã làm (Attempted), đã gắn cờ (Flag to Review) |
-| **Flag to Review** | Gắn cờ câu hỏi để xem lại sau |
-| **Clear Selection** | Xóa đáp án đã chọn của câu hỏi hiện tại |
-| **Highlight / Unhighlight** | Bôi đậm / bỏ bôi đậm đoạn văn bản (nhấn giữ và kéo chuột) |
-| **Scratch Pad** | Giấy nháp tạm; **không lưu được** — nội dung mất khi chuyển sang câu khác |
-| **Calculator** | Máy tính |
+| Công cụ                         | Chức năng                                                                             |
+| ------------------------------- | ------------------------------------------------------------------------------------- |
+| **Danh sách câu hỏi**           | Xem và chuyển nhanh giữa các câu hỏi                                                  |
+| **Bộ lọc câu hỏi**              | Lọc theo: chưa làm (Unattempted), đã làm (Attempted), đã gắn cờ (Flag to Review)      |
+| **Flag to Review**              | Gắn cờ câu hỏi để xem lại sau                                                         |
+| **Clear Selection**             | Xóa đáp án đã chọn của câu hỏi hiện tại                                               |
+| **Highlight / Unhighlight**     | Bôi đậm / bỏ bôi đậm đoạn văn bản (nhấn giữ và kéo chuột)                             |
+| **Scratch Pad**                 | Giấy nháp tạm; **không lưu được** — nội dung mất khi chuyển sang câu khác             |
+| **Calculator**                  | Máy tính                                                                              |
 | **Exhibit / Time Value Tables** | Hiển thị tài liệu/gợi ý hỗ trợ làm bài (nhãn hiển thị tùy theo cấu hình của khóa học) |
-| **Requirement** | Các câu hỏi nhỏ của một câu hỏi tự luận |
-| **Confirm answer** | Hiển thị đáp án đúng và lời giải (với loại bài hiển thị đáp án ngay sau khi làm) |
-| **Help** | Trợ giúp |
-| **Next / < >** | Chuyển sang câu hỏi kế tiếp hoặc câu trước đó |
-| **Finish** | Nộp bài |
-| **X** | Thoát khỏi bài kiểm tra |
+| **Requirement**                 | Các câu hỏi nhỏ của một câu hỏi tự luận                                               |
+| **Confirm answer**              | Hiển thị đáp án đúng và lời giải (với loại bài hiển thị đáp án ngay sau khi làm)      |
+| **Help**                        | Trợ giúp                                                                              |
+| **Next / < >**                  | Chuyển sang câu hỏi kế tiếp hoặc câu trước đó                                         |
+| **Finish**                      | Nộp bài                                                                               |
+| **X**                           | Thoát khỏi bài kiểm tra                                                               |
 
 {% hint style="info" %}
 Các câu hỏi đã trả lời được bôi màu đậm hơn để phân biệt với câu hỏi chưa trả lời.

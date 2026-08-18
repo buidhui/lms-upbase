@@ -24,17 +24,16 @@ layout:
 ## I. Thông tin chung
 
 {% hint style="info" %}
-**Dành cho:** Học viên (LMS Pro)
+**Dành cho:** Học viên
 
-**Đường dẫn:** Màn hình My Course → Course Detail → Nội dung học chi tiết của chủ đề
+**Đường dẫn:** My Learning → Course Detail → Activity
 {% endhint %}
 
 {% hint style="info" %}
 #### Phạm vi & Module liên quan
 
 * **Module chính:** Course (Học các cấu phần của Khóa học)
-* **Module liên quan:** My Course, Course Detail
-* **Hệ thống tích hợp:** LMS Pro (LMS Student)
+* **Module liên quan:** My Learning, Course Detail, Learning Activity
 {% endhint %}
 
 {% hint style="warning" %}
@@ -52,119 +51,106 @@ layout:
 
 {% stepper %}
 {% step %}
-**Chọn Khóa học muốn học tại màn hình My Course**
+**Chọn Khóa học muốn học tại màn hình My Learning**
 
-Tại màn hình My Course, học viên xác định Khóa học mình muốn học và thao tác như hướng dẫn dưới đây:
+Tại màn hình My Learning, học viên xác định Khóa học mình muốn học và thao tác như hướng dẫn dưới đây:
 
 * Với Khóa học có thời hạn học cố định: học viên nhấp vào **Tên Khóa học** hoặc nút **Begin** để chuyển hướng đến màn Course Detail chứa những cấu phần tổng quan của Khóa học.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 * Với Khóa học có thời hạn linh động cho học viên (Khóa học sẽ hết hạn sau x ngày kể từ khi học viên kích hoạt Khóa học): học viên nhấp vào **Tên Khóa học** hoặc nút **Activate**.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 Khi hộp thoại xác nhận hiển thị, học viên tiếp tục chọn **Activate**.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
-
-Học viên nhấp vào **Tên Khóa học** hoặc nút **Begin** để chuyển hướng đến màn Course Detail chứa những cấu phần tổng quan của Khóa học.
-
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 **Xem thông tin các cấu phần tổng quan tại màn hình Course Detail**
 
-Tại màn hình Course Detail, người dùng có những thông tin về từng cấu phần tổng quan của khóa học gồm các chủ đề và bài kiểm tra, cùng với các thông tin của từng cấu phần:
+Màn hình nội dung học chi tiết của một Khóa học được chia ra 2 phần:
 
-* Chủ đề:
-  * Tên chủ đề
-  * Giới thiệu chung
-  * Tiến độ học
-  * Thời gian học dự kiến
-* Bài Kiểm tra:
-  * Thời gian làm bài
-  * Số lần làm bài
+* Bên trái: tất cả các chương thuộc Khóa học sắp xếp theo thứ tự học được thiết kế, cùng với tiến độ học và thời gian học dự kiến. Học viên chọn vào chương tương ứng muốn học.
 
-Học viên lựa chọn cấu phần cần học, click vào Tên hoặc nút Begin để xem chi tiết nội dung của từng chủ đề bao gồm Learning Outcomes, Unit, Activity, bài kiểm tra theo từng Chủ đề, Case Study…
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+*   Bên phải: Mô tả nội dung của Chương, Learning Outcome, danh sách các hoạt động.
+
+    * Learning Activity
+    * Test Activity
+    * Case Study Activity
+
+    <figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-**Chọn chương muốn học tại màn hình nội dung học chi tiết**
+**Chi tiết nội dung từng hoạt động học**
 
-Màn hình nội dung học chi tiết của một chủ đề được chia ra 2 phần:
+Học viên mở Learning Outcomes, để xem các kiến thức kì vọng sẽ đạt được của chương học.
 
-* Bên trái: tất cả các chương thuộc chủ đề đó cùng với tiến độ học và thời gian học dự kiến (theo thứ tự từ trên xuống dưới). Người dùng click vào chương tương ứng muốn học.
+<figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption><p>Chi tiết Learning Outcome</p></figcaption></figure>
 
-* Bên phải: giới thiệu về chương học, nội dung học chi tiết tương ứng với từng chương kèm lời giới thiệu chung cho từng Unit.
+Học viên có thể chọn nút Next Lesson để bắt đầu vào hoạt động học đầu tiên của Chương
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
+Hoặc học viên có thể chọn 1 Activity trong nhóm Learning Activity để bắt đầu học.
 
-{% step %}
-**Học nội dung từng hoạt động học tập**
+Thông tin của một hoạt động học bao gồm
 
-Học viên click vào hoạt động học tập mà mình muốn học (theo thứ tự từ trên xuống dưới) để xem nội dung kiến thức cho từng hoạt động.
+* Trạng thái hoạt động học đó đã hoàn thành hay chưa
+* Loại nội dung học chính của hoạt động đó (Text, Video, Quiz, Storyline)
+* Tên hoạt động học
+* Thời giời ước lượng cần thiết để hoàn thành hoạt động học đó
 
-* Học viên mở Learning Outcomes, hiển thị các kiến thức kì vọng sẽ đạt được của chương học.
+<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+Đối với những Activity có nhiều Tab, chọn vào tên Tab hoặc nút Next Tab ở cuối nội dung học để chuyển sang học nội dung ở Tab tiếp theo.
 
-_Learning Outcomes sẽ hiển thị như sau:_
-
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
-
-* Học viên mở Activity, hiển thị nội dung kiến thức của hoạt động. Đối với những Activity có nhiều Tab, click vào Tên Tab hoặc Next Tab để chuyển sang học nội dung tiếp theo.
-
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Các hoạt động được đánh dấu 'Graded Activity' là những hoạt động học viên cần phải học.
+Hoạt động học được tính là Hoàn thành, khi icon Check được đổi sang màu xanh
+{% endhint %}
+
+{% hint style="info" %}
+Logic tính hoàn thành Hoạt động học với các loại nội dung học
+
+* Hoạt động học chứa Quiz thì phải hoàn thành Quiz
+* Hoạt động học chứa Video thì phải play video
+* Hoạt động học chứa Text và Ảnh thì chỉ cần mở hiển thị
+
+Mức đội ưu tiên theo thứ tự Quiz -> Video -> Text/ Ảnh. Trong trường hợp có nhiều Tab thì phải học hết các Tab có trong Hoạt động học đó mới tính Hoàn thành
 {% endhint %}
 {% endstep %}
 
 {% step %}
-**Điều hướng giữa các hoạt động**
+**Điều hướng giữa các Hoạt động học**
 
-Sau khi hoàn thành 1 hoạt động, chọn **Next Activity/Previous Activity** điều hướng sang hoạt động tiếp theo/trước đó.
+Sau khi hoàn thành 1 hoạt động, chọn **Next Activity/ Previous Activity** để điều hướng sang hoạt động tiếp theo/trước đó. Hoặc chọn Hoạt động học tiếp theo ở phần Table of Content
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
 </details>
 
-## III. Lưu Ý & Quy Tắc Nghiệp Vụ
+## III. Lưu ý & Quy tắc nghiệp vụ
 
 {% hint style="warning" %}
 ### Lưu ý quan trọng
 
 1. Với Khóa học có thời hạn linh động, Khóa học sẽ hết hạn sau x ngày kể từ khi học viên nhấn **Activate** để kích hoạt Khóa học.
-2. Các hoạt động được đánh dấu 'Graded Activity' là những hoạt động bắt buộc học viên cần phải hoàn thành.
+2. Các hoạt động được đánh dấu 'Graded Activity' là những hoạt động bắt buộc học viên cần phải hoàn thành để tính điểm hoàn thành khóa học đó.
 3. Nội dung các chương và hoạt động học tập được sắp xếp theo thứ tự từ trên xuống dưới, học viên nên học lần lượt theo thứ tự này.
 {% endhint %}
 
-{% hint style="info" %}
-### Mẹo sử dụng
+## IV. Các lỗi thường gặp & Hướng dẫn xử lý
 
-1. Đối với những Activity có nhiều Tab, sử dụng nút **Next Tab** để chuyển nhanh sang nội dung tiếp theo trong cùng hoạt động.
-2. Theo dõi Tiến độ học và Thời gian học dự kiến hiển thị bên trái màn hình để quản lý lộ trình học tập.
-3. Dùng **Next Activity/Previous Activity** để di chuyển nhanh giữa các hoạt động mà không cần quay lại danh sách.
-{% endhint %}
-
-## IV. Các Lỗi Thường Gặp & Cách Xử Lý
-
-| Lỗi / Tình huống                                      | Nguyên nhân                                        | Cách xử lý                                                                        |
-| ----------------------------------------------------- | -------------------------------------------------- | --------------------------------------------------------------------------------- |
-| Không vào được nội dung học, hiển thị biểu tượng khóa | Khóa học thử, cấu phần bị giới hạn                 | Đăng ký mở full course hoặc liên hệ TVTS để được hỗ trợ                           |
-| Không thấy nút **Begin**, chỉ thấy nút **Activate**   | Khóa học có thời hạn linh động chưa được kích hoạt | Nhấn **Activate** để kích hoạt Khóa học, sau đó nhấn **Begin** để bắt đầu học     |
-| Không thấy Khóa học cần học tại màn hình My Course    | Khóa học chưa được đăng ký hoặc đã hết hạn         | Kiểm tra lại danh sách Khóa học đã đăng ký, liên hệ đội ngũ hỗ trợ UpBase nếu cần |
+| Lỗi / Tình huống                                    | Nguyên nhân                                        | Cách xử lý                                                                    |
+| --------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Không thấy nút **Begin**, chỉ thấy nút **Activate** | Khóa học có thời hạn linh động chưa được kích hoạt | Nhấn **Activate** để kích hoạt Khóa học, sau đó nhấn **Begin** để bắt đầu học |
+| Không thấy Khóa học cần học tại màn hình My Course  | Khóa học chưa được thêm vào lớp hoặc đã hết hạn    | Kiểm tra lại danh sách Khóa học đã đăng ký, liên hệ đội L\&D hỗ trợ           |

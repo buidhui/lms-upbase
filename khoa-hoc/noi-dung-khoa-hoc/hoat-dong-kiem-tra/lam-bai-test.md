@@ -24,19 +24,17 @@ layout:
 ## I. Thông tin chung
 
 {% hint style="info" %}
-**Dành cho:** Học viên (LMS Pro)
+**Dành cho:** Học viên
 
-**Đường dẫn:** Màn hình My Course → Course Detail → Bài Test
+**Đường dẫn:** Màn hình My Course → Course Detail → Chapter Test/ Midterm Test/ Final Test
 {% endhint %}
 
 {% hint style="warning" %}
 #### Điều kiện tiên quyết:
 
 * Học viên đã đăng ký khóa học và đăng nhập hệ thống thành công.
-* Đã xem [Giao diện & công cụ khi làm bài](./) để nắm các thành phần dùng chung.
+* Đã xem [#iii.-giao-dien-and-cong-cu-khi-lam-bai](./#iii.-giao-dien-and-cong-cu-khi-lam-bai "mention") để nắm các thành phần dùng chung.
 {% endhint %}
-
-Áp dụng cho các loại bài Test: **Part/Topic Test, Chapter/Module Test, Midterm Test, Final Test, Mocktest.**
 
 ## II. Hướng dẫn chi tiết
 
@@ -46,41 +44,43 @@ layout:
 
 {% stepper %}
 {% step %}
-**Bắt đầu làm bài Test**
+**Chọn bài Test cần làm**
 
-Tùy loại bài, học viên thao tác bắt đầu như sau:
+* Chọn bài Test cần làm từ màn hình Course Detail
 
-* **Midterm Test, Final Test, Mocktest:** tại màn hình chi tiết Khóa học, chọn **Start** và tiếp tục chọn **Start** khi hộp thoại thông tin bài Test hiển thị.
+<figure><img src="../../../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+* Chọn bài Test cần làm từ màn hình chi tiết một Hoạt động học
 
-* **Part/Topic Test** và **Chapter/Module Test:** tại màn hình nội dung chi tiết của một chủ đề, click vào bài Test và chọn **Start** để làm bài.
+<figure><img src="../../../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+* Chọn bài Test cần làm từ màn hình Test/ Quiz List
 
-<figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-**Làm các câu hỏi trong bài Test**
+**Bắt đầu làm bài Test**
 
-Giao diện bài Test hiển thị, học viên thực hiện làm lần lượt các câu hỏi.
+Xem thông tin bài Test và bắt đầu làm bài
 
-Các thành phần giao diện, công cụ hỗ trợ (Scratch Pad, Calculator, Flag to Review, Highlight…) và các dạng câu hỏi được mô tả chung tại [Giao diện & công cụ khi làm bài](./).
+<figure><img src="../../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-<figure><img src="../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+{% step %}
+**Hoàn thành các câu hỏi trong bài Test**
 
-{% hint style="info" %}
-Với câu hỏi có sẵn **Answer Template**, học viên làm trực tiếp vào template Word/Excel. Xem cách dùng **Show / Reset Answer Template** tại [phần Answer Template](./#iv.-answer-template-word-excel).
-{% endhint %}
+Các thành phần giao diện, công cụ hỗ trợ (Scratch Pad, Calculator, Flag to Review, Highlight…) và các dạng câu hỏi được mô tả chung tại [#iii.-giao-dien-and-cong-cu-khi-lam-bai](./#iii.-giao-dien-and-cong-cu-khi-lam-bai "mention")
+
+<figure><img src="../../../.gitbook/assets/Multiple Choice.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 **Nộp bài**
 
-Sau khi hoàn thành, click **Finish** và tiếp tục chọn **Submit** để nộp bài.
+Sau khi hoàn thành câu hỏi cuối cùng trong bài Test, hệ thống sẽ hiển thị Popup để Xác nhận nộp bài, hoặc học viên chủ động chọn nút **Finish** và tiếp tục chọn **Submit** để nộp bài.
 
-<figure><img src="../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Nếu hết thời gian làm bài mà học viên chưa kịp chọn **Finish**, hệ thống sẽ **tự động nộp bài**.
@@ -92,7 +92,7 @@ Nếu hết thời gian làm bài mà học viên chưa kịp chọn **Finish**,
 
 Tại màn hình kết quả, click vào câu hỏi để xem lời giải chi tiết cho từng câu.
 
-<figure><img src="../../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Test Dashboard.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Thông tin hiển thị tại giao diện Kết quả bài thi:
@@ -161,5 +161,5 @@ Nếu đồng hồ đếm ngược trên hộp thoại chạy về 00:00:00, h�
 | Lỗi / Tình huống                                    | Nguyên nhân                                    | Cách xử lý                                                                           |
 | --------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------ |
 | Bài thi bị nộp khi chưa hoàn thành                  | Hết thời gian làm bài, hệ thống tự động nộp    | Quản lý thời gian; theo dõi đồng hồ đếm ngược trên giao diện                         |
-| Mất bài làm sau khi tải lại trang / thoát giao diện | Quá trình làm bài bị gián đoạn                 | Mở lại bài kiểm tra và chọn **Continue / Continue the previous attempt** để tiếp tục |
+| Mất bài làm sau khi tải lại trang / thoát giao diện | Quá trình làm bài bị gián đoạn                 | Mở lại bài kiểm tra và chọn **Continue/ Continue the previous attempt** để tiếp tục  |
 | Mất toàn bộ bước đã làm của câu hỏi                 | Đã chọn **Reset to Answer Template > Confirm** | Thao tác reset không thể hoàn tác; chỉ reset khi thực sự cần làm lại từ template gốc |

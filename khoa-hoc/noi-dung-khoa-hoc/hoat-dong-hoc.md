@@ -45,10 +45,6 @@ layout:
 
 ## II. Hướng dẫn chi tiết
 
-<details>
-
-<summary>Học nội dung bài học</summary>
-
 {% stepper %}
 {% step %}
 **Chọn Khóa học muốn học tại màn hình My Learning**
@@ -135,8 +131,6 @@ Sau khi hoàn thành 1 hoạt động, chọn **Next Activity/ Previous Activity
 <figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
-
-</details>
 
 ## III. Lưu ý & Quy tắc nghiệp vụ
 

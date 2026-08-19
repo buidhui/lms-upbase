@@ -24,61 +24,65 @@ layout:
 ## I. Thông tin chung
 
 {% hint style="info" %}
-**Dành cho:** Học viên (LMS Pro)
+**Dành cho:** Học viên
 
-**Đường dẫn:** Màn hình chi tiết Khóa học → Menu → Resource
+**Đường dẫn:** My Course → Course Detail → Learning Activity → Course Resource
 {% endhint %}
 
 {% hint style="info" %}
 #### Phạm vi & Module liên quan
 
-* **Module chính:** Xem danh sách học liệu của Khóa học (Resource)
-* **Module liên quan:** Course, Course Detail, Activity
-* **Hệ thống tích hợp:** LMS Pro (LMS Student)
+* **Module chính:** Tài liệu Khóa học (Course Resource)
+* **Module liên quan:** Course, Course Detail, Learning Activity
 {% endhint %}
 
-{% hint style="warning" %}
-#### Điều kiện tiên quyết:
-
-* Học viên đã đăng ký khóa học.
-* Học viên đăng nhập hệ thống thành công với tài khoản được cung cấp.
-{% endhint %}
+Tài liệu lớp học là tài liệu gắn với một lớp học cố định, có thể là video record bài giảng, tài liệu của giảng viên dạy lớp đó,.... Khác với tài liệu khóa học là một khóa học có thể gắn với nhiều lớp học, do đó tài liệu khóa học sẽ tồn tại ở tất cả các lớp có gắn khóa học đó.
 
 ## II. Hướng dẫn chi tiết
 
 <details>
 
-<summary>Xem danh sách Học liệu</summary>
+<summary>Xem danh sách tài liệu khóa học</summary>
 
 {% stepper %}
 {% step %}
-**Mở danh sách Resource**
+**Mở danh sách course resource**
 
-Sau khi người dùng mở màn hình chi tiết Khóa học, tại thanh Menu nhấp vào **Resource** thì danh sách các tài liệu được đính kèm trong khóa học được hiển thị theo thời gian tạo giảm dần.
+Chọn **Course Resource** tại menu sidebar trong màn hình chi tiết khóa học hoặc chi tiết một hoạt động học để mở danh sách các tài liệu được đính kèm trong khóa học.
 
-<figure><img src="../../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
-Danh sách các học liệu sẽ hiển thị khác nhau theo từng màn hình mà học viên truy cập:
+Danh sách các tài liệu khóa sẽ hiển thị khác nhau theo từng màn hình truy cập:
 
-* Màn hình thông tin các cấu phần học lớn: hiển thị danh sách học liệu của toàn bộ Khóa học.
+* Hiển thị toàn bộ danh sách tài liệu của khóa học nếu mở note list tại màn chi tiết khóa học.
 
-<figure><img src="../../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
-* Màn hình thông tin chi tiết của một chủ đề (Part/Topic): hiển thị danh sách học liệu của toàn bộ chủ đề đó.
+* Nếu mở course resource tại chi tiết một hoạt động học, hệ thống chỉ hiển thị danh sách tài liệu thuộc hoạt động học đó. Học viên có thể lựa chọn lại bộ lọc để xem tài liệu ở các hoạt động học khác thuộc khóa học.
 
-<figure><img src="../../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
-* Màn hình hoạt động học tập (Activity): hiển thị toàn bộ học liệu được tải lên tại hoạt động đó.
+* Danh sách tài liệu thuộc một hoạt động học cũng hiển thị trong màn hình chi tiết hoạt động học đó.
 
-<figure><img src="../../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+**Xem tài liệu khóa học**
+
+Chọn tài liệu để xem Preview ngay trong giao diện màn hình đang học.
+
+<figure><img src="../../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 **Tải học liệu về máy**
 
-Học viên click vào biểu tượng tải về để tải về máy tài liệu tương ứng.
+Học viên click vào biểu tượng Dowload về để tải Tài liệu về máy
 
-<figure><img src="../../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -86,47 +90,41 @@ Học viên click vào biểu tượng tải về để tải về máy tài li�
 
 <details>
 
-<summary>Tìm kiếm Học liệu</summary>
+<summary>Tìm kiếm tài liệu khóa học</summary>
 
-{% stepper %}
-{% step %}
 **Tìm kiếm theo các cấu phần học**
 
-Tìm kiếm theo các trường Section, Subsection, Unit, Activity để lấy các học liệu thuộc các cấu phần học.
+Tìm kiếm theo các trường section, activity để lấy các tài liệu thuộc các cấu phần học.
 
-* Section: chọn 1 trong tất cả Section của Khóa học.
-* Subsection: chọn 1 trong tất cả Subsection của Section vừa chọn.
-* Unit: chọn 1 trong tất cả Unit của Subsection vừa chọn.
-* Activity: chọn 1 trong tất cả Activity của Unit vừa chọn.
+* Section: chọn 1 trong tất cả section của khóa học.
+* Activity: chọn 1 trong tất cả activity của section vừa chọn.
 
-Khi nhập mỗi một trường thông tin, hệ thống sẽ tự động tìm kiếm các kết quả theo thông tin đã nhập.
+Khi chọn một trường thông tin, hệ thống sẽ tự động tìm kiếm các kết quả theo thông tin đã nhập.
 
-<figure><img src="../../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-{% endstepper %}
+<figure><img src="../../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
-## III. Lưu Ý & Quy Tắc Nghiệp Vụ
+## III. Lưu ý & Quy tắc ngiệp vụ
 
 {% hint style="warning" %}
 ### Lưu ý quan trọng
 
-1. Danh sách học liệu mặc định hiển thị theo thời gian tạo giảm dần.
-2. Danh sách học liệu hiển thị khác nhau theo từng màn hình truy cập: toàn bộ Khóa học, theo chủ đề (Part/Topic), hoặc theo hoạt động (Activity).
+1. Danh sách tài liệu khóa học mặc định hiển thị theo thời gian tạo giảm dần.
+2. Danh sách học liệu hiển thị khác nhau theo từng màn hình truy cập: toàn bộ khóa học, theo section, hoặc theo hoạt động học (activity).
 {% endhint %}
 
 {% hint style="info" %}
 ### Mẹo sử dụng
 
 1. Mở Resource ở màn hình cấu phần lớn để xem toàn bộ học liệu của Khóa học trong một danh sách.
-2. Dùng bộ lọc Section → Subsection → Unit → Activity để nhanh chóng tìm học liệu thuộc đúng cấu phần học.
-3. Hệ thống tự động tìm kiếm ngay khi nhập từng trường, không cần thao tác xác nhận thêm.
+2. Dùng bộ lọc Section → Activity để nhanh chóng tìm học liệu thuộc đúng cấu phần học.
+3. Hệ thống tự động tìm kiếm ngay khi chọn từng trường, không cần thao tác xác nhận thêm.
 {% endhint %}
 
-## IV. Các Lỗi Thường Gặp & Cách Xử Lý
+## IV. Các lỗi thường gặp & Hướng dẫn xử lý
 
-| Lỗi / Tình huống                            | Nguyên nhân                                              | Cách xử lý                                                                         |
-| ------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Không thấy học liệu cần tìm trong danh sách | Đang xem ở màn hình có phạm vi hẹp hơn nơi chứa học liệu | Mở Resource ở màn hình cấu phần lớn hơn, hoặc dùng bộ lọc theo đúng cấu phần       |
-| Không tải được học liệu về máy              | Lỗi kết nối tạm thời hoặc trình duyệt chặn tải xuống     | Kiểm tra kết nối/cài đặt trình duyệt và thử tải lại; liên hệ hỗ trợ UpBase nếu cần |
+| Lỗi / Tình huống                            | Nguyên nhân                                              | Cách xử lý                                                                                |
+| ------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| Không thấy tài liệu cần tìm trong danh sách | Đang xem ở màn hình có phạm vi hẹp hơn nơi chứa tài liệu | Mở Resource ở màn hình cấu phần lớn hơn, hoặc dùng bộ lọc theo đúng cấu phần              |
+| Không tải được học liệu về máy              | Lỗi kết nối tạm thời hoặc trình duyệt chặn tải xuống     | Kiểm tra kết nối/ cài đặt trình duyệt và thử tải lại, liên hệ đội vận hành nếu cần hỗ trợ |

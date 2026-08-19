@@ -111,7 +111,7 @@ Tại màn hình **My Learning**, học viên nhấp vào nút **Filter** theo *
 
 Chọn **Danh mục** hoặc **Trạng thái** muốn xem để lọc các Khóa học thỏa mãn. Học viên có thể **lọc kết hợp** các điều kiện cùng lúc.
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p><em>Kết quả sau khi lọc theo điều kiện</em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p><em>Kết quả sau khi lọc theo điều kiện</em></p></figcaption></figure>
 
 {% hint style="info" %}
 💡 **Mẹo:** Học viên có thể sử dụng **kết hợp** chức năng _Tìm kiếm Khóa học theo tên_ và _Lọc Khóa học theo điều kiện cho trước_ để thu hẹp kết quả nhanh hơn.
@@ -146,8 +146,8 @@ Chọn **Danh mục** hoặc **Trạng thái** muốn xem để lọc các Khóa
 
 | Lỗi / Tình huống                                                 | Nguyên nhân                                                                                                              | Cách xử lý                                                                                                                              |
 | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Không thấy bất kỳ khóa học nào trong My Learning                 | <ul><li>Tài khoản chưa được gán vào lớp học</li><li>Tài khoản đã được gán vào lớp nhưng lớp học chưa Published</li></ul> | Liên hệ đội L\&D để xác nhận đã được thêm vào lớp học chứa Khóa học tương ứng                                                           |
+| Không thấy bất kỳ khóa học nào trong My Learning                 | <ul><li>Tài khoản chưa được gán vào lớp học</li><li>Tài khoản đã được gán vào lớp nhưng lớp học chưa Published</li></ul> | Liên hệ đội vận hành để xác nhận đã được thêm vào lớp học chứa khóa học tương ứng                                                       |
 | Tìm kiếm theo tên không trả về kết quả mong đợi                  | Nhập sai chính tả hoặc tên khóa học khác với tên hiển thị trên hệ thống                                                  | Kiểm tra lại chính tả; thử nhập từ khóa ngắn hơn (chỉ một phần tên); kết hợp dùng bộ lọc theo Danh mục.                                 |
 | Đã dùng bộ lọc nhưng vẫn không thấy khóa học cần tìm             | Lọc kết hợp nhiều điều kiện không có khóa học nào thỏa mãn                                                               | Bỏ bớt điều kiện lọc, hoặc reset bộ lọc rồi thử lại với các điều kiện khác.                                                             |
-| Thông tin **Thời hạn còn lại** hiển thị "0 ngày" hoặc đã hết hạn | Khóa học đã hết thời hạn truy cập                                                                                        | Liên hệ đội L\&D để được hỗ trợ và gia hạn.                                                                                             |
+| Thông tin **Thời hạn còn lại** hiển thị "0 ngày" hoặc đã hết hạn | Khóa học đã hết thời hạn truy cập                                                                                        | Liên hệ đội vận hành để được hỗ trợ và gia hạn.                                                                                         |
 | Tiến độ học không cập nhật dù đã hoàn thành Activity             | Activity chưa được đánh dấu Hoàn thành                                                                                   | <ul><li>Xác nhận lại Activity đã Hoàn thành đảm bảo có icon Completed hiển thị</li><li>Tải lại trang My Learning để cập nhật.</li></ul> |

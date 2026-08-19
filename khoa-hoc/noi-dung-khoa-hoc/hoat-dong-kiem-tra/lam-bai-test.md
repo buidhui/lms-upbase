@@ -19,7 +19,7 @@ layout:
     visible: true
 ---
 
-# Làm bài Test
+# Làm bài test
 
 ## I. Thông tin chung
 
@@ -64,7 +64,7 @@ layout:
 
 Xem thông tin bài Test và bắt đầu làm bài
 
-<figure><img src="../../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/broken/files/BGguVpANAjIkjkJe7oBh" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -102,7 +102,7 @@ Thông tin hiển thị tại giao diện Kết quả bài thi:
 * Chi tiết từng câu hỏi: tên, chủ đề, loại câu hỏi, kết quả, tỷ lệ % học viên làm đúng, thời gian làm
 * Số lượng câu hỏi chia theo trắc nghiệm và tự luận (xanh = đúng, đỏ = sai)
 
-Nhấp **<** / **>** để chuyển giữa các câu hỏi.
+Chọn **<** / **>** để chuyển giữa các câu hỏi.
 {% endhint %}
 {% endstep %}
 {% endstepper %}
@@ -113,17 +113,15 @@ Nhấp **<** / **>** để chuyển giữa các câu hỏi.
 
 <summary>Tiếp tục bài kiểm tra bị gián đoạn</summary>
 
-Tính năng này lưu lại tiến trình làm bài khi quá trình làm bị gián đoạn (tải lại trang, thoát giao diện, mất kết nối tạm thời…), giúp học viên tiếp tục từ thời điểm trước đó mà không mất dữ liệu.
+Tính năng này giúp lưu lại tiến trình làm bài khi quá trình làm bị gián đoạn (tải lại trang, thoát giao diện, mất kết nối mạng tạm thời…), giúp học viên tiếp tục từ thời điểm trước đó mà không mất dữ liệu.
 
-Áp dụng cho: **Chapter/Module Test, Part/Topic Test, Midterm Test, Final Test, Mocktest.**
+Áp dụng cho: **Chapter Test, Midterm Test, Final Test.**
 
 {% stepper %}
 {% step %}
 **Mở lại bài kiểm tra chưa hoàn thành**
 
-Học viên click vào bài kiểm tra chưa được hoàn thành trước đó.
-
-<figure><img src="../../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+Học viên chọn vào bài kiểm tra chưa được hoàn thành trước đó.
 {% endstep %}
 
 {% step %}
@@ -131,12 +129,13 @@ Học viên click vào bài kiểm tra chưa được hoàn thành trước đó
 
 Hệ thống hiển thị hộp thoại kèm thời gian còn lại của bài kiểm tra, theo hai trường hợp:
 
-* **Lượt làm dở là lượt cuối cùng được phép:** chọn **Continue** để vào làm tiếp; các câu đã làm được giữ nguyên và thời gian tiếp tục đếm ngược.
-* **Vẫn còn lượt làm khác:**
-  * **Continue the previous attempt > Continue:** tiếp tục lượt đang làm dở, giữ nguyên các câu đã làm.
-  * **Start a new attempt > Continue:** bắt đầu lượt làm mới, làm lại từ đầu.
+* **Lượt làm dở là lượt làm cuối cùng:** chọn **Continue** để vào làm tiếp, các câu đã làm được giữ nguyên và thời gian tiếp tục đếm ngược trừ khoảng thời gian bị gián đoạn
+*   **Vẫn còn lượt làm khác:**
 
-<figure><img src="../../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+    * **Continue the previous attempt > Continue:** tiếp tục lượt đang làm dở, giữ nguyên các câu đã làm.
+    * **Start a new attempt > Continue:** bắt đầu lượt làm mới, làm lại từ đầu.
+
+    <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Nếu đồng hồ đếm ngược trên hộp thoại chạy về 00:00:00, học viên cần chọn **Continue** để hệ thống nộp bài và tính kết quả dựa trên các câu đã làm.
@@ -146,20 +145,19 @@ Nếu đồng hồ đếm ngược trên hộp thoại chạy về 00:00:00, h�
 
 </details>
 
-## III. Lưu Ý & Quy Tắc Nghiệp Vụ
+## III. Lưu ý & Quy tắc nghiệp vụ
 
 {% hint style="warning" %}
 ### Lưu ý quan trọng
 
-1. Khi hết thời gian làm bài, hệ thống tự động nộp bài dựa trên các câu trả lời đã làm, kể cả khi chưa chọn **Finish**.
-2. Tính năng tiếp tục bài bị gián đoạn chỉ áp dụng cho Chapter/Module Test, Part/Topic Test, Midterm Test, Final Test, Mocktest.
-3. Xem thêm quy tắc chung về Scratch Pad và Answer Template tại trang [Làm bài kiểm tra](./).
+1. Khi hết thời gian làm bài, hệ thống **tự động nộp bài** dựa trên các câu trả lời học viên đã làm, kể cả khi chưa chọn **Finish** (áp dụng cho các bài Test).
+2. Tính năng tiếp tục bài bị gián đoạn chỉ áp dụng cho Chapter Test, Midterm Test, Final Test.
 {% endhint %}
 
 ## IV. Các Lỗi Thường Gặp & Cách Xử Lý
 
-| Lỗi / Tình huống                                    | Nguyên nhân                                    | Cách xử lý                                                                           |
-| --------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------ |
-| Bài thi bị nộp khi chưa hoàn thành                  | Hết thời gian làm bài, hệ thống tự động nộp    | Quản lý thời gian; theo dõi đồng hồ đếm ngược trên giao diện                         |
-| Mất bài làm sau khi tải lại trang / thoát giao diện | Quá trình làm bài bị gián đoạn                 | Mở lại bài kiểm tra và chọn **Continue/ Continue the previous attempt** để tiếp tục  |
-| Mất toàn bộ bước đã làm của câu hỏi                 | Đã chọn **Reset to Answer Template > Confirm** | Thao tác reset không thể hoàn tác; chỉ reset khi thực sự cần làm lại từ template gốc |
+| Lỗi / Tình huống                                   | Nguyên nhân                                    | Cách xử lý                                                                           |
+| -------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Bài thi bị nộp khi chưa hoàn thành                 | Hết thời gian làm bài, hệ thống tự động nộp    | Quản lý thời gian, theo dõi đồng hồ đếm ngược trên giao diện.                        |
+| Mất bài làm sau khi tải lại trang/ thoát giao diện | Quá trình làm bài bị gián đoạn                 | Mở lại bài kiểm tra và chọn **Continue/ Continue the previous attempt** để tiếp tục  |
+| Mất toàn bộ bước đã làm của câu hỏi                | Đã chọn **Reset to Answer Template > Confirm** | Thao tác reset không thể hoàn tác, chỉ reset khi thực sự cần làm lại từ template gốc |

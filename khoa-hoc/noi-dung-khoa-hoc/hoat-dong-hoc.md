@@ -91,7 +91,7 @@ Màn hình nội dung học chi tiết của một Khóa học được chia ra 
 
 Học viên mở Learning Outcomes, để xem các kiến thức kì vọng sẽ đạt được của chương học.
 
-<figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption><p>Chi tiết Learning Outcome</p></figcaption></figure>
 
@@ -110,7 +110,7 @@ Thông tin của một hoạt động học bao gồm
 
 Đối với những Activity có nhiều Tab, chọn vào tên Tab hoặc nút Next Tab ở cuối nội dung học để chuyển sang học nội dung ở Tab tiếp theo.
 
-<figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Hoạt động học được tính là Hoàn thành, khi icon Check được đổi sang màu xanh
@@ -150,7 +150,7 @@ Sau khi hoàn thành 1 hoạt động, chọn **Next Activity/ Previous Activity
 
 ## IV. Các lỗi thường gặp & Hướng dẫn xử lý
 
-| Lỗi / Tình huống                                    | Nguyên nhân                                        | Cách xử lý                                                                    |
-| --------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------- |
-| Không thấy nút **Begin**, chỉ thấy nút **Activate** | Khóa học có thời hạn linh động chưa được kích hoạt | Nhấn **Activate** để kích hoạt Khóa học, sau đó nhấn **Begin** để bắt đầu học |
-| Không thấy Khóa học cần học tại màn hình My Course  | Khóa học chưa được thêm vào lớp hoặc đã hết hạn    | Kiểm tra lại danh sách Khóa học đã đăng ký, liên hệ đội L\&D hỗ trợ           |
+| Lỗi / Tình huống                                    | Nguyên nhân                                        | Cách xử lý                                                                      |
+| --------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Không thấy nút **Begin**, chỉ thấy nút **Activate** | Khóa học có thời hạn linh động chưa được kích hoạt | Nhấn **Activate** để kích hoạt Khóa học, sau đó nhấn **Begin** để bắt đầu học   |
+| Không thấy Khóa học cần học tại màn hình My Course  | Khóa học chưa được thêm vào lớp hoặc đã hết hạn    | Kiểm tra lại danh sách Khóa học đã đăng ký, liên hệ đội vận hành nếu cần hỗ trợ |

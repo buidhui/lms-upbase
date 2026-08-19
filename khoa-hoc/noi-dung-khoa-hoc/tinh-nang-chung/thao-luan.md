@@ -24,24 +24,16 @@ layout:
 ## I. Thông tin chung
 
 {% hint style="info" %}
-**Dành cho:** Học viên (LMS Pro)
+**Dành cho:** Học viên
 
-**Đường dẫn:** Màn hình Activity → khu vực Discussion
+**Đường dẫn:** My Course → Course Detail → Learning Activity → Discussion
 {% endhint %}
 
 {% hint style="info" %}
 #### Phạm vi & Module liên quan
 
-* **Module chính:** Discussion (Bình luận/Thảo luận trong hoạt động học tập)
+* **Module chính:** Discussion (Thảo luận)
 * **Module liên quan:** Course, Course Detail, Activity
-* **Hệ thống tích hợp:** LMS Pro (LMS Student)
-{% endhint %}
-
-{% hint style="warning" %}
-#### Điều kiện tiên quyết:
-
-* Học viên đã đăng ký khóa học.
-* Học viên đăng nhập hệ thống thành công với tài khoản được cung cấp.
 {% endhint %}
 
 ## II. Hướng dẫn chi tiết
@@ -54,25 +46,25 @@ layout:
 {% step %}
 **Soạn bình luận**
 
-Tại màn hình Activity, ở khu vực Discussion, học viên có thể bình luận bằng chữ hoặc thêm ảnh vào bình luận:
+Tại khu vực Discussion trong một hoạt động học, học viên có thể bình luận bằng chữ hoặc thêm ảnh vào bình luận:
 
-* Thêm bình luận bằng chữ: nhập bình luận tại ô `'Your comment…'`.
+* Bình luận bằng chữ: nhập bình luận tại ô `'Input Text…'`.
 
-<figure><img src="../../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
-* Bình luận bằng ảnh: nhấp vào biểu tượng máy ảnh và chọn ảnh từ thiết bị (cho phép chọn nhiều ảnh cùng lúc).
+* Bình luận bằng ảnh: chọn vào biểu tượng máy ảnh và chọn ảnh từ thiết bị (cho phép chọn nhiều ảnh cùng lúc).
 
-<figure><img src="../../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 **Gửi bình luận**
 
-Click nút **Enter** hoặc biểu tượng **Submit** để gửi bình luận.
+Bấm nút **Enter** hoặc biểu tượng **Submit** để gửi bình luận.
 
-<figure><img src="../../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -88,15 +80,16 @@ Click nút **Enter** hoặc biểu tượng **Submit** để gửi bình luận.
 
 Tại bình luận mà học viên muốn trả lời, click **Reply**.
 
-<figure><img src="../../../.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 **Nhập và gửi trả lời**
 
-Nhập bình luận tại ô `'Input text…'` bên dưới bình luận đó và click **Enter**.
+* Nhập bình luận phản hồi tại ô `'Input text…'` bên dưới bình luận đó và bấm Enter hoặc click biểu tượng Submit.
+* Chọn Cancel để hủy reply bình luận.
 
-<figure><img src="../../../.gitbook/assets/image (259).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -112,21 +105,16 @@ Nhập bình luận tại ô `'Input text…'` bên dưới bình luận đó v�
 
 Tại bình luận muốn chỉnh sửa, chọn **Edit**.
 
-<figure><img src="../../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 **Nhập nội dung mới và lưu**
 
-Nhập nội dung mới của bình luận, sau đó click **Enter** để lưu bình luận mới. Chọn **Cancel** để hủy chỉnh sửa bình luận.
+* Nhập nội dung mới của bình luận, sau đó bấm Enter hoặc click biểu tượng Submit để lưu bình luận mới.
+* Chọn **Cancel** để hủy chỉnh sửa bình luận.
 
-_Hủy sửa bình luận:_
-
-<figure><img src="../../../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
-
-_Click Enter để lưu bình luận mới_
-
-<figure><img src="../../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -142,7 +130,7 @@ _Click Enter để lưu bình luận mới_
 
 Tại bình luận muốn xóa, chọn **Delete**.
 
-<figure><img src="../../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -153,19 +141,21 @@ Hộp thoại xác nhận hiển thị:
 * Chọn **Delete** để đồng ý xóa, lúc này bình luận sẽ biến mất khỏi màn hình.
 * Chọn **Cancel** để hủy xóa bình luận.
 
-<figure><img src="../../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
 </details>
 
-## III. Lưu Ý & Quy Tắc Nghiệp Vụ
+## III. Lưu ý & Quy tắc nghiệp vụ
 
 {% hint style="warning" %}
 ### Lưu ý quan trọng
 
 1. Bình luận bằng ảnh cho phép chọn nhiều ảnh cùng lúc từ thiết bị.
 2. Thao tác xóa bình luận cần được xác nhận qua hộp thoại; sau khi xóa, bình luận sẽ biến mất khỏi màn hình.
+3. Chỉ có thể chỉnh sửa và xóa bình luận của chính mình.
+4. Bình luận sẽ gắn theo khóa học, mọi bình luận thuộc khóa học sẽ hiển thị ở tất cả các lớp học có gán khóa học đó.
 {% endhint %}
 
 {% hint style="info" %}
@@ -176,10 +166,10 @@ Hộp thoại xác nhận hiển thị:
 3. Khi đang chỉnh sửa, dùng **Cancel** để hủy nếu không muốn lưu thay đổi.
 {% endhint %}
 
-## IV. Các Lỗi Thường Gặp & Cách Xử Lý
+## IV. Các lỗi thường gặp & Hướng dẫn xử lý
 
 | Lỗi / Tình huống                  | Nguyên nhân                                                   | Cách xử lý                                                              |
 | --------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| Không gửi được bình luận          | Ô bình luận trống hoặc lỗi kết nối tạm thời                   | Nhập nội dung và thử lại bằng **Enter** hoặc biểu tượng **Submit**      |
+| Không gửi được bình luận          | Ô bình luận trống                                             | Nhập nội dung và thử lại bằng **Enter** hoặc biểu tượng **Submit**      |
 | Không thêm được ảnh vào bình luận | Trình duyệt chặn truy cập tệp hoặc định dạng ảnh không hỗ trợ | Kiểm tra quyền truy cập tệp của trình duyệt và chọn lại ảnh từ thiết bị |
-| Lỡ xóa nhầm bình luận             | Đã chọn **Delete** ở hộp thoại xác nhận                       | Thao tác xóa không thể hoàn tác; cần đăng lại bình luận mới             |
+| Xóa nhầm bình luận                | Đã chọn **Delete** ở hộp thoại xác nhận                       | Thao tác xóa không thể hoàn tác, cần đăng lại bình luận mới             |

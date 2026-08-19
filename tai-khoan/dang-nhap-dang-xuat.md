@@ -26,32 +26,21 @@ layout:
 {% hint style="info" %}
 **Dành cho:** Học viên
 
-**Đường dẫn:** [http://lms-upbase.edu.asia/auth/login](http://lms-upbase.edu.asia/auth/login)
+**Đường dẫn:**&#x20;
 {% endhint %}
 
 {% hint style="info" %}
 #### Phạm vi & Module liên quan
 
-* **Module chính:** Đăng nhập / Đăng xuất (Authentication)
-* **Module liên quan:** Quản lý tài khoản học viên (Operations)
-* **Hệ thống tích hợp:** Hệ thống gửi email (OTP / liên kết đặt lại mật khẩu)
+* **Module chính:** Đăng nhập/ Đăng xuất
+* **Module liên quan:** Security
 {% endhint %}
 
 {% hint style="warning" %}
 #### Điều kiện tiên quyết:
 
-Học viên được cung cấp tài khoản thông qua 1 trong 3 cách sau:
-
-* Học viên đăng ký Học thử/Thi thử thành công.
-* Học viên làm thủ tục đăng ký khóa học thành công.
-* Học viên được đội vận hành tạo tài khoản trên hệ thống vận hành Operations.
+Học viên là nhân sự của UpBase và tài khoản được tạo trên hệ thống LMS
 {% endhint %}
-
-### 1.1. Mục đích
-
-Tài liệu này hướng dẫn học viên các bước chi tiết để đăng nhập vào hệ thống LMS Student, xử lý các tình huống liên quan đến đăng nhập (quên mật khẩu, lưu đăng nhập) và đăng xuất khỏi hệ thống.
-
-### 1.2. Đối tượng & phạm vi áp dụng
 
 | Vai trò  | Mô tả                                            | Phạm vi thao tác                                   |
 | -------- | ------------------------------------------------ | -------------------------------------------------- |
@@ -67,30 +56,16 @@ Tài liệu này hướng dẫn học viên các bước chi tiết để đăng
 {% step %}
 **Truy cập hệ thống**
 
-Truy cập hệ thống LMS Student theo link sau: [http://lms-upbase.edu.asia/auth/login](http://lms-upbase.edu.asia/auth/login)
-{% endstep %}
+Truy cập hệ thống LMS theo link sau:
 
-{% step %}
-**Nhập thông tin đăng nhập**
-
-* Username or Email (\*): nhập Username hoặc Email.
-* Password (\*): nhập mật khẩu.
-
-Người dùng có thể click icon 👁️ để hiển thị mật khẩu.
-
-<figure><img src="../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 **Đăng nhập**
 
-Click **Login** để đăng nhập vào hệ thống.
-
-<figure><img src="../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
-
-Học viên chỉ có thể đăng nhập cùng 1 tài khoản trên tối đa 3 thiết bị. Nếu đăng nhập cùng tài khoản đó trên thiết bị thứ 4, học viên cần liên hệ với đội ngũ vận hành của UpBase theo hướng dẫn trên màn hình để được hỗ trợ.
-
-<figure><img src="../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
+* Chọn đăng nhập SSO qua Lark
+* Chọn đăng nhập qua mã Credential
 {% endstep %}
 {% endstepper %}
 
@@ -98,7 +73,7 @@ Học viên chỉ có thể đăng nhập cùng 1 tài khoản trên tối đa 3
 
 <details>
 
-<summary>Đăng nhập lần đầu (Product Tour)</summary>
+<summary>Đăng nhập lần đầu</summary>
 
 Khi đăng nhập lần đầu thành công, hệ thống hiển thị phần hướng dẫn sử dụng (Product Tour) để giới thiệu giao diện.
 
@@ -108,15 +83,15 @@ Khi đăng nhập lần đầu thành công, hệ thống hiển thị phần h�
 
 Tại hộp thoại chào mừng, chọn **Start Tour**.
 
-<figure><img src="../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
+
 {% endstep %}
 
 {% step %}
 **Đi qua các hộp thoại hướng dẫn**
 
-Tại mỗi hộp thoại hướng dẫn, chọn **Next** để sang bước tiếp theo.
+Tại mỗi hộp thoại hướng dẫn, chọn **Next** để sang bước tiếp theo hoặc **Previous** để quay lại bước trước đó.
 
-<figure><img src="../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
+
 {% endstep %}
 {% endstepper %}
 
@@ -136,7 +111,7 @@ Product Tour chỉ hiển thị tự động ở lần đăng nhập đầu tiê
 
 Tại màn hình đăng nhập, click **Forgot Password?**
 
-<figure><img src="../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/broken/files/ioGvcmO5T5912jWwODqS" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -144,7 +119,7 @@ Tại màn hình đăng nhập, click **Forgot Password?**
 
 Tại màn hình Forgot Password, người dùng nhập Email dùng để tạo tài khoản và click **Send** để lấy mã OTP do hệ thống gửi về tài khoản Email đã nhập.
 
-<figure><img src="../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/broken/files/vkICqhtUFYzi09z4ZMzk" alt=""><figcaption></figcaption></figure>
 
 | Message hiển thị     | Ghi chú             |
 | -------------------- | ------------------- |
@@ -157,7 +132,7 @@ Tại màn hình Forgot Password, người dùng nhập Email dùng để tạo 
 
 Truy cập Email, kiểm tra email hệ thống vừa gửi, bao gồm liên kết đặt lại mật khẩu.
 
-<figure><img src="../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/broken/files/6bzXysM78qclcilGovCp" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -169,7 +144,7 @@ Người dùng bấm vào button "Đặt lại mật khẩu" trong email, lúc n
 * Yêu cầu về mật khẩu tối thiểu 8 ký tự và bao gồm ít nhất 1 chữ số và 1 ký tự in hoa.
 * Người dùng có thể click icon 👁️ để hiển thị mật khẩu.
 
-<figure><img src="../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/broken/files/GuBvavitrPQ1UPJdYh2p" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -191,7 +166,7 @@ Chọn **Submit** để đổi mật khẩu. Nếu mật khẩu mới hợp lệ
 
 Tại màn hình đăng nhập, click **Keep me logged in** để lưu đăng nhập cho những lần đăng nhập tiếp theo.
 
-<figure><img src="../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/broken/files/mS5RTazhUHMncJF8KorD" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -201,47 +176,22 @@ Tại màn hình đăng nhập, click **Keep me logged in** để lưu đăng nh
 
 <summary>Đăng xuất khỏi hệ thống</summary>
 
-{% stepper %}
-{% step %}
-**Truy cập thông tin chi tiết của tài khoản**
+Tại màn hình thông tin chi tiết của tài khoản, chọn **Logout** để đăng xuất và chuyển hướng đến màn hình đăng nhập.
 
-Tại màn hình thông tin chi tiết của tài khoản, click **Log out** để đăng xuất và chuyển hướng đến màn hình đăng nhập.
-
-<figure><img src="../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-**Thao tác đăng xuất**
-
-Click **Log out** để đăng xuất và chuyển hướng đến màn hình đăng nhập.
-
-<figure><img src="../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-{% endstepper %}
+<figure><img src="../.gitbook/assets/User Profile - Overview.png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
-## III. Lưu Ý & Quy Tắc Nghiệp Vụ
+## III. Lưu ý & Quy tắc nghiệp vụ
 
 {% hint style="warning" %}
 ### Lưu ý quan trọng
 
-1. Mỗi tài khoản chỉ được đăng nhập đồng thời trên tối đa **3 thiết bị**. Khi đăng nhập trên thiết bị thứ 4, học viên cần liên hệ đội vận hành UpBase theo hướng dẫn trên màn hình.
-2. Mật khẩu mới phải tối thiểu **8 ký tự**, bao gồm ít nhất **1 chữ số** và **1 ký tự in hoa**; mật khẩu xác nhận phải trùng với mật khẩu mới.
+1. Hệ thống đăng nhập qua phương thức SSO Lark, do đó không có chức năng Quên mật khẩu.
 {% endhint %}
 
-{% hint style="info" %}
-### Mẹo sử dụng
+## IV. Các lỗi thường gặp & Hướng dẫn xử lý
 
-1. Click icon con mắt 👁️ để hiển thị/ẩn mật khẩu khi nhập.
-2. Bật **Keep me logged in** để không phải đăng nhập lại ở những lần truy cập sau.
-{% endhint %}
-
-## IV. Các Lỗi Thường Gặp & Cách Xử Lý
-
-| Lỗi / Tình huống                       | Nguyên nhân                                              | Cách xử lý                                                                                          |
-| -------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| Invalid Email                          | Email nhập sai định dạng                                 | Nhập lại đúng định dạng email                                                                       |
-| Email does not exist                   | Email không tồn tại trong hệ thống                       | Kiểm tra lại email đăng ký, hoặc liên hệ đội vận hành UpBase                                        |
-| Không đăng nhập được trên thiết bị mới | Tài khoản đã đăng nhập trên đủ 3 thiết bị                | Liên hệ đội vận hành UpBase theo hướng dẫn trên màn hình để được hỗ trợ                             |
-| Không đặt lại được mật khẩu            | Mật khẩu mới chưa đủ điều kiện hoặc xác nhận không trùng | Nhập mật khẩu tối thiểu 8 ký tự, có ít nhất 1 chữ số và 1 ký tự in hoa, đảm bảo xác nhận trùng khớp |
+| Lỗi / Tình huống | Nguyên nhân                                                            | Cách xử lý                          |
+| ---------------- | ---------------------------------------------------------------------- | ----------------------------------- |
+| Không đăng nhập  | Chưa có tài khoản Lark, hoặc tài khoản Lark chưa thuộc tổ chức UpBasse | Liên hệ đội vận hành để được hỗ trợ |

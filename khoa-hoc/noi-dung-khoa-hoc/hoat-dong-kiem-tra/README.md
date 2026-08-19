@@ -58,7 +58,7 @@ Các phần bên dưới mô tả những thành phần **dùng chung** cho cả
 
 ## III. Giao diện & Công cụ khi làm bài
 
-Câu hỏi có thể hiển thị dưới **2 bố cục**:&#x20;
+Câu hỏi có thể hiển thị dưới **2 bố cục**:
 
 * Dạng **1 cột** (đề bài, câu hỏi và đáp án xếp lần lượt từ trên xuống)
 
@@ -67,8 +67,6 @@ Câu hỏi có thể hiển thị dưới **2 bố cục**:&#x20;
 * Dạng **2 cột** (đề bài ở trái, câu hỏi và đáp án ở phải)
 
 <figure><img src="../../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
-
-
 
 **Các công cụ hỗ trợ trên giao diện làm bài:**
 
@@ -108,7 +106,7 @@ Câu hỏi có thể hiển thị dưới **2 bố cục**:&#x20;
 Các câu hỏi đã trả lời được bôi màu đậm hơn để phân biệt với câu hỏi chưa trả lời.
 {% endhint %}
 
-**Hệ thống hỗ trợ 8 dạng câu hỏi:**&#x20;
+**Hệ thống hỗ trợ 8 dạng câu hỏi:**
 
 <figure><img src="../../../.gitbook/assets/One Choice.png" alt=""><figcaption><p>Một lựa chọn</p></figcaption></figure>
 
@@ -122,13 +120,13 @@ Các câu hỏi đã trả lời được bôi màu đậm hơn để phân bi�
 
 <figure><img src="../../../.gitbook/assets/Matching.png" alt=""><figcaption><p>Nối đáp án</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Câu hỏi tự luận.png" alt=""><figcaption><p>Tự luận</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Câu hỏi tự luận.png" alt=""><figcaption><p>Tự luận</p></figcaption></figure>
 
 * Tự luận (trả lời từng Requirement vào Word/Excel, có thể yêu cầu Choose File to Upload để tải bài làm từ thiết bị).
 
 ## IV. Answer Template (Word/ Excel)
 
-Một số câu hỏi (tự luận, Requirement) có sẵn Answer Template,  học viên làm trực tiếp vào template Word/Excel đã cho. Cơ chế này giống nhau ở cả Test, Quiz và Case Study:
+Một số câu hỏi (tự luận, Requirement) có sẵn Answer Template, học viên làm trực tiếp vào template Word/Excel đã cho. Cơ chế này giống nhau ở cả Test, Quiz và Case Study:
 
 * Show Answer Template: nhấn để xem lại file template gốc
 * Reset to Answer Template: đặt lại về template ban đầu của đề bài, hệ thống hiển thị popup cảnh báo có thể mất bài làm hiện tại

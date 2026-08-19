@@ -2,9 +2,9 @@
 
 * [Welcome to LMS - UpBase](README.md)
 * [Tài khoản](tai-khoan/README.md)
+  * [Đăng nhập & Đăng xuất](tai-khoan/dang-nhap-dang-xuat.md)
   * [Thông tin tài khoản](tai-khoan/thong-tin-tai-khoan.md)
   * [Bảo mật tài khoản](tai-khoan/bao-mat-tai-khoan.md)
-  * [Đăng nhập & Đăng xuất](tai-khoan/dang-nhap-dang-xuat.md)
 * [Khoá học](khoa-hoc/README.md)
   * [Danh sách khóa học](khoa-hoc/danh-sach-khoa-hoc.md)
   * [Nội dung khoá học](khoa-hoc/noi-dung-khoa-hoc/README.md)

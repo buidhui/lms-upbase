@@ -52,7 +52,7 @@ layout:
 
 * Chọn bài Test cần làm từ màn hình chi tiết một Hoạt động học
 
-<figure><img src="../../../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 
 * Chọn bài Test cần làm từ màn hình Test/ Quiz List
 

@@ -106,7 +106,7 @@ Thông tin của một hoạt động học bao gồm
 
 Đối với những Activity có nhiều Tab, chọn vào tên Tab hoặc nút Next Tab ở cuối nội dung học để chuyển sang học nội dung ở Tab tiếp theo.
 
-<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Hoạt động học được tính là Hoàn thành, khi icon Check được đổi sang màu xanh
@@ -128,7 +128,7 @@ Mức đội ưu tiên theo thứ tự Quiz -> Video -> Text/ Ảnh. Trong trư�
 
 Sau khi hoàn thành 1 hoạt động, chọn **Next Activity/ Previous Activity** để điều hướng sang hoạt động tiếp theo/trước đó. Hoặc chọn Hoạt động học tiếp theo ở phần Table of Content
 
-<figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

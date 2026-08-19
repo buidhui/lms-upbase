@@ -40,10 +40,6 @@ Quiz là các câu hỏi bổ trợ nằm trong hoạt động học tập (Acti
 
 ## II. Hướng dẫn chi tiết
 
-<details>
-
-<summary>Làm bài Quiz trong Activity</summary>
-
 {% stepper %}
 {% step %}
 **Trả lời câu hỏi trong hoạt động học tập**
@@ -97,8 +93,6 @@ Chọn vào tên câu hỏi để xem đáp án chi tiết và lời giải.
 <figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
-
-</details>
 
 ## III. Lưu ý & Quy tắc nghiệp vụ
 

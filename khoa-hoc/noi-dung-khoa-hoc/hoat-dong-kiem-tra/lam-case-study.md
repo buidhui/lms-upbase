@@ -40,10 +40,6 @@ Case Study chỉ có **1 lượt làm duy nhất** và **không phải hoạt đ
 
 ## II. Hướng dẫn chi tiết
 
-<details>
-
-<summary>Làm Case Study</summary>
-
 {% stepper %}
 {% step %}
 **Chọn nhóm câu hỏi**
@@ -80,10 +76,10 @@ Sau khi trả lời câu hỏi, chọn **Finish** rồi **Submit** để xác nh
 **Hoàn thành Case Study**
 
 Hoàn thành tất cả các nhóm câu hỏi để hoàn thành hoạt động học Case Study
+
+
 {% endstep %}
 {% endstepper %}
-
-</details>
 
 ## III. Lưu ý & Quy tắc nghiệp vụ
 

@@ -15,10 +15,6 @@
 * **Module liên quan:** My Course, Course Content
 {% endhint %}
 
-| Vai trò  | Mô tả                                | Phạm vi thao tác                                                                          |
-| -------- | ------------------------------------ | ----------------------------------------------------------------------------------------- |
-| Học viên | Người học đăng nhập vào hệ thống LMS | Xem danh mục tài liệu theo lớp học; xem trước (preview) hoặc tải tài liệu theo phân quyền |
-
 Tài liệu lớp học là tài liệu gắn với một lớp học cố định, có thể là video record bài giảng, tài liệu của giảng viên dạy lớp đó,.... Khác với tài liệu khóa học là một khóa học có thể gắn với nhiều lớp học, do đó tài liệu khóa học sẽ tồn tại ở tất cả các lớp có gắn khóa học đó.
 
 ## II. Hướng dẫn chi tiết

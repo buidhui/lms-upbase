@@ -42,10 +42,6 @@ layout:
 Học viên là nhân sự của UpBase và tài khoản được tạo trên hệ thống LMS
 {% endhint %}
 
-| Vai trò  | Mô tả                                            | Phạm vi thao tác                                   |
-| -------- | ------------------------------------------------ | -------------------------------------------------- |
-| Học viên | Người học đã được cấp tài khoản trên LMS Student | Đăng nhập, quên mật khẩu, lưu đăng nhập, đăng xuất |
-
 ## II. Hướng dẫn chi tiết
 
 <details>
@@ -98,77 +94,6 @@ Tại mỗi hộp thoại hướng dẫn, chọn **Next** để sang bước ti�
 {% hint style="info" %}
 Product Tour chỉ hiển thị tự động ở lần đăng nhập đầu tiên. Nếu tài khoản đã đăng nhập trước đó, hộp thoại này sẽ không xuất hiện.
 {% endhint %}
-
-</details>
-
-<details>
-
-<summary>Quên mật khẩu</summary>
-
-{% stepper %}
-{% step %}
-**Mở màn hình Forgot Password**
-
-Tại màn hình đăng nhập, click **Forgot Password?**
-
-<figure><img src="/broken/files/ioGvcmO5T5912jWwODqS" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-**Gửi yêu cầu lấy lại mật khẩu**
-
-Tại màn hình Forgot Password, người dùng nhập Email dùng để tạo tài khoản và click **Send** để lấy mã OTP do hệ thống gửi về tài khoản Email đã nhập.
-
-<figure><img src="/broken/files/vkICqhtUFYzi09z4ZMzk" alt=""><figcaption></figcaption></figure>
-
-| Message hiển thị     | Ghi chú             |
-| -------------------- | ------------------- |
-| Invalid Email        | Sai định dạng email |
-| Email does not exist | Email không tồn tại |
-{% endstep %}
-
-{% step %}
-**Kiểm tra email**
-
-Truy cập Email, kiểm tra email hệ thống vừa gửi, bao gồm liên kết đặt lại mật khẩu.
-
-<figure><img src="/broken/files/6bzXysM78qclcilGovCp" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-**Nhập mật khẩu mới**
-
-Người dùng bấm vào button "Đặt lại mật khẩu" trong email, lúc này hộp thoại để người dùng nhập mật khẩu hiển thị trên màn hình. Người dùng nhập mật khẩu mới thỏa mãn các điều kiện sau:
-
-* Người dùng nhập mật khẩu mới và mật khẩu xác nhận trùng nhau.
-* Yêu cầu về mật khẩu tối thiểu 8 ký tự và bao gồm ít nhất 1 chữ số và 1 ký tự in hoa.
-* Người dùng có thể click icon 👁️ để hiển thị mật khẩu.
-
-<figure><img src="/broken/files/GuBvavitrPQ1UPJdYh2p" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-**Xác nhận đổi mật khẩu**
-
-Chọn **Submit** để đổi mật khẩu. Nếu mật khẩu mới hợp lệ, màn hình thông báo đổi mật khẩu thành công và hệ thống điều hướng tới màn hình Login. Lúc này, học viên có thể sử dụng Email và mật khẩu mới để đăng nhập vào hệ thống.
-{% endstep %}
-{% endstepper %}
-
-</details>
-
-<details>
-
-<summary>Lưu đăng nhập</summary>
-
-{% stepper %}
-{% step %}
-**Bật lưu đăng nhập**
-
-Tại màn hình đăng nhập, click **Keep me logged in** để lưu đăng nhập cho những lần đăng nhập tiếp theo.
-
-<figure><img src="/broken/files/mS5RTazhUHMncJF8KorD" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-{% endstepper %}
 
 </details>
 

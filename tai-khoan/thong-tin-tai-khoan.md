@@ -42,10 +42,6 @@ layout:
 Học viên đăng nhập thành công vào hệ thống.
 {% endhint %}
 
-| Vai trò  | Mô tả                                  | Phạm vi thao tác                                                |
-| -------- | -------------------------------------- | --------------------------------------------------------------- |
-| Học viên | Người học đã đăng nhập vào LMS Student | Xem thông tin tài khoản, chỉnh sửa ảnh đại diện và tên hiển thị |
-
 ## II. Hướng dẫn chi tiết
 
 <details>

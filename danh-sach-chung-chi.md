@@ -43,42 +43,6 @@ Học viên đăng nhập thành công vào hệ thống.
 
 ## II. Hướng dẫn chi tiết
 
-<details>
-
-<summary>Xem danh sách chứng chỉ của học viên</summary>
-
-{% stepper %}
-{% step %}
-**Mở danh sách chứng chỉ**
-
-Tại màn hình thông tin chi tiết của tài khoản, click **Certificates** để chuyển đến màn hình danh sách các chứng chỉ mà học viên đã đạt được.
-
-<figure><img src="/broken/files/08BdWo6Z4ChMnOfnwXiC" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-**Chia sẻ hoặc tải chứng chỉ**
-
-Học viên có thể chia sẻ chứng chỉ hoặc tải chứng chỉ về máy dưới định dạng ảnh.
-
-* **Chia sẻ chứng chỉ:** Học viên nhấp vào tên chứng chỉ để xem hình ảnh chi tiết của chứng chỉ. Tại đây, chọn **Share** để sao chép đường link của chứng chỉ.
-
-<figure><img src="/broken/files/oIS8QiYCkgBTvDXTrcBb" alt=""><figcaption></figcaption></figure>
-
-* **Tải chứng chỉ:**
-
-Chọn **biểu tượng Download** tại màn hình danh sách chứng chỉ:
-
-<figure><img src="/broken/files/fpX5xlBECZv23QaYid2g" alt=""><figcaption></figcaption></figure>
-
-Hoặc nhấp vào nút **Download** khi mở hình ảnh chi tiết của chứng chỉ:
-
-<figure><img src="/broken/files/vvgicFmxHD8C9cY0yBiw" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-{% endstepper %}
-
-</details>
-
 {% stepper %}
 {% step %}
 **Mở danh sách chứng chỉ**

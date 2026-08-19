@@ -48,21 +48,6 @@ Học viên đăng nhập thành công vào hệ thống.
 
 ## II. Hướng dẫn chi tiết
 
-<details>
-
-<summary>Xem danh sách thiết bị đã đăng nhập</summary>
-
-Tại màn hình thông tin chi tiết của tài khoản, click **Security > Login History** để xem lịch sử đăng nhập của tài khoản, gồm các thông tin:
-
-* Tên thiết bị
-* Thời gian đăng nhập
-* IP
-* Địa điểm đăng nhập
-
-<figure><img src="/broken/files/sqRpx7zf0lnMZErNHpji" alt=""><figcaption></figcaption></figure>
-
-</details>
-
 Tại màn hình thông tin chi tiết của tài khoản, chọn tab **Security** để xem lịch sử đăng nhập của tài khoản, gồm các thông tin:
 
 * Thời gian đăng nhập

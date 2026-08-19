@@ -44,13 +44,6 @@ layout:
 * Khóa học có Status = **Resume** hoặc **Review** thì khi click vào Lớp, hệ thống chuyển đến màn Dashboard. Còn khóa có Status = **Ready to learn**, hệ thống chuyển đến màn Course Content (chưa có Dashboard).
 {% endhint %}
 
-| Biểu đồ                   | Mô tả                                                                                               |
-| ------------------------- | --------------------------------------------------------------------------------------------------- |
-| **Overall Progress**      | Tiến độ học tập tổng thể của học viên trong Khóa học.                                               |
-| **This Week**             | So sánh số Activities hoàn thiện & thời gian học (Learning times) của tuần này với tuần liền trước. |
-| **Topic Progress**        | Tiến độ học theo từng Section. Mỗi cột tương ứng với một Section.                                   |
-| **Your Learning Results** | Kết quả học tập theo Section, tính dựa trên kết quả các bài test.                                   |
-
 ## II. Hướng dẫn chi tiết
 
 <details>

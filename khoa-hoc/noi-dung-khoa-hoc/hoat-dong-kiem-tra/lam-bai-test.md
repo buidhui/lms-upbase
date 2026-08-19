@@ -64,7 +64,7 @@ layout:
 
 Xem thông tin bài Test và bắt đầu làm bài
 
-<figure><img src="/broken/files/BGguVpANAjIkjkJe7oBh" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

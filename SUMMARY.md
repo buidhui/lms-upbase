@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to LMS - UpBase](README.md)
+* [Welcome to UpLMS](README.md)
 * [Tài khoản](tai-khoan/README.md)
   * [Đăng nhập & Đăng xuất](tai-khoan/dang-nhap-dang-xuat.md)
   * [Thông tin tài khoản](tai-khoan/thong-tin-tai-khoan.md)

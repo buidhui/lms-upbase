@@ -26,7 +26,7 @@ layout:
 {% hint style="info" %}
 **Dành cho:** Học viên
 
-**Đường dẫn:** [https://lms.upbase.asia/](https://lms.upbase.asia/)
+**Đường dẫn:** [https://uplms.upbase.asia/](https://lms.upbase.asia/)
 {% endhint %}
 
 {% hint style="info" %}
@@ -39,7 +39,7 @@ layout:
 {% hint style="warning" %}
 #### Điều kiện tiên quyết:
 
-Học viên là nhân sự của UpBase và tài khoản được tạo trên hệ thống LMS
+Học viên là nhân sự của UpBase và tài khoản được tạo trên hệ thống UpLMS
 {% endhint %}
 
 ## II. Hướng dẫn chi tiết
@@ -52,7 +52,7 @@ Học viên là nhân sự của UpBase và tài khoản được tạo trên h�
 {% step %}
 **Truy cập hệ thống**
 
-Truy cập hệ thống LMS theo link sau: [https://lms.upbase.asia/](https://lms.upbase.asia/)
+Truy cập hệ thống UpLMS theo link sau: [https://uplms.upbase.asia/](https://lms.upbase.asia/)
 
 <figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

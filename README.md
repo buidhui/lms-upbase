@@ -20,11 +20,11 @@ layout:
 metaLinks: {}
 ---
 
-# Welcome to LMS - UpBase
+# Welcome to UpLMS
 
 <figure><img src=".gitbook/assets/Gitbook Cover_LMS (1).png" alt=""><figcaption></figcaption></figure>
 
-Chào mừng bạn đến với **Hệ thống học tập trực tuyến LMS - UpBase**.
+Chào mừng bạn đến với **Hệ thống học tập trực tuyến UpLMS**
 
 Đây là tài liệu hướng dẫn sử dụng (User Guide) dành cho **học viên**, giúp bạn thao tác thành thạo trên hệ thống, từ đăng nhập, học các khóa học, làm bài kiểm tra, đến theo dõi tiến độ và quản lý tài khoản.
 

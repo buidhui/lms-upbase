@@ -52,7 +52,7 @@ Học viên là nhân sự của UpBase và tài khoản được tạo trên h�
 {% step %}
 **Truy cập hệ thống**
 
-Truy cập hệ thống LMS theo link sau:
+Truy cập hệ thống LMS theo link sau: [https://lms.upbase.asia/](https://lms.upbase.asia/)
 
 <figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

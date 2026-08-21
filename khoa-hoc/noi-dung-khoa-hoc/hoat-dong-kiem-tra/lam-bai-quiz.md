@@ -74,7 +74,7 @@ Có 2 dạng Quiz:
 
 Lặp lại cho đến khi hoàn thành tất cả câu hỏi, sau đó chọn **Finish** để chuyển đến màn hình tổng hợp kết quả.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

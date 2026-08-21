@@ -60,7 +60,7 @@ Danh sách các tài liệu khóa sẽ hiển thị khác nhau theo từng màn 
 
 * Nếu mở course resource tại chi tiết một hoạt động học, hệ thống chỉ hiển thị danh sách tài liệu thuộc hoạt động học đó. Học viên có thể lựa chọn lại bộ lọc để xem tài liệu ở các hoạt động học khác thuộc khóa học.
 
-<figure><img src="../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
 * Danh sách tài liệu thuộc một hoạt động học cũng hiển thị trong màn hình chi tiết hoạt động học đó.
 

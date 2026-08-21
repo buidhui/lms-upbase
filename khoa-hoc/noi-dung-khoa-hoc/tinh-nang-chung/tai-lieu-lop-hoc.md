@@ -28,6 +28,8 @@ Tài liệu lớp học là tài liệu gắn với một lớp học cố đị
 **Mở danh sách tài liệu lớp học**
 
 Chọn **Class Resource** tại menu sidebar trong màn hình chi tiết khóa học hoặc chi tiết một hoạt động học để mở danh sách các tài liệu được đính kèm trong lớp học.
+
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -37,32 +39,11 @@ Tài liệu lớp học hiển thị dưới 2 dạng:
 
 * Dạng danh sách (List Layout):
 
-
+<figure><img src="../../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 * Dạng lưới (Grid Layout):
 
-
-
-Mô tả thông tin:
-
-| Name                      | Description                                                                                    |
-| ------------------------- | ---------------------------------------------------------------------------------------------- |
-| **Filter**                |                                                                                                |
-| Search                    | Tìm kiếm theo tên tài liệu hoặc tên thư mục.                                                   |
-| Type                      | Lọc theo loại tài liệu.                                                                        |
-| Lesson                    | Lọc theo buổi học được gắn với tài liệu. Có thể chọn nhiều buổi học.                           |
-| **Danh sách Folder/File** |                                                                                                |
-| File/Folder name          | Tên tài liệu hoặc thư mục.                                                                     |
-| Type                      | Loại tài liệu hoặc thư mục: Các thư mục hiển thị tại Folders; các tài liệu hiển thị tại Files. |
-| Lesson                    | Buổi học được gắn với tài liệu (chỉ hiển thị với dạng List).                                   |
-
-Lọc theo loại tài liệu:
-
-
-
-Lọc tài liệu theo thư mục:
-
-
+<figure><img src="../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -70,7 +51,7 @@ Lọc tài liệu theo thư mục:
 
 Chọn tài liệu muốn xem để hiển thị nội dung ngay trên giao diện hệ thống LMS.
 
-
+<figure><img src="../../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -82,7 +63,7 @@ Chọn tài liệu muốn xem để hiển thị nội dung ngay trên giao di�
 
 Tại danh sách tài liệu lớp học, chọn nút **Action** tương ứng với tài liệu muốn tải và chọn **Download**.
 
-
+<figure><img src="../../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 

@@ -80,11 +80,11 @@ Thông tin học viên được đồng bộ từ Lark nên không thể chỉnh
 {% hint style="warning" %}
 ### Lưu ý quan trọng
 
-1. Học viên chỉ được phép chỉnh sửa **ảnh đại diện** các thông tin khác do hệ thống/ đội vận hành quản lý.
+1. Học viên chỉ được phép chỉnh sửa **ảnh đại diện**; các thông tin khác do hệ thống/ đội vận hành quản lý.
 {% endhint %}
 
 ## IV. Các lỗi thường gặp & Hướng dẫn xử lý
 
 | Lỗi / Tình huống                             | Nguyên nhân                                              | Cách xử lý                                                           |
 | -------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------------------- |
-| Không chỉnh sửa được một số trường thông tin | Trường đó không nằm trong phạm vi học viên được phép sửa | Chỉ có ảnh đại diện liên hệ đội vận hành nếu cần sửa thông tin khác. |
+| Không chỉnh sửa được một số trường thông tin | Trường đó không nằm trong phạm vi học viên được phép sửa | Học viên chỉ sửa được ảnh đại diện; liên hệ đội vận hành nếu cần sửa thông tin khác. |

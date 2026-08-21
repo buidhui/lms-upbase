@@ -128,7 +128,7 @@ Chọn **Danh mục** hoặc **Trạng thái** muốn xem để lọc các Khóa
 
 1. Màn hình **My Learning** chỉ hiển thị các khóa học mà học viên **đã được thêm** trên hệ thống. Nếu không thấy khóa học mong muốn, học viên cần kiểm tra lại với đội L\&D
 2. Thông tin **Thời hạn còn lại của Khóa học** sẽ hiển thị khác nhau theo loại khóa học:
-   * **Khóa học có thời hạn cố định:** thời hạn được tính theo khoảng thời gian trùng với lịch trình chung của lớp học (Ví dụ: 1/1/2206 - 31/12/2026, hiện tại là 1/12/2026 thì thời hạn còn lại là 30 ngày).
+   * **Khóa học có thời hạn cố định:** thời hạn được tính theo khoảng thời gian trùng với lịch trình chung của lớp học (Ví dụ: 1/1/2026 - 31/12/2026, hiện tại là 1/12/2026 thì thời hạn còn lại là 30 ngày).
    * **Khóa học có thời hạn linh động:** thời hạn được tính từ thời điểm học viên **kích hoạt (Activate)** khóa học (Ví dụ: khóa học có 60 ngày để học, sau khi học viên kích hoạt, hệ thống sẽ đếm ngược từ 60 về 0).
 3. Bộ lọc hỗ trợ **lọc kết hợp** nhiều điều kiện cùng lúc (vừa theo Danh mục vừa Trạng thái) và có thể kết hợp với Tìm kiếm theo tên.
 4. **Tiến độ học** hiển thị trên Khóa học được tính dựa trên số Activity đã hoàn thành trên tổng số Activity của khóa học.

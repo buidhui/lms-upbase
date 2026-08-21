@@ -89,4 +89,4 @@ Tại màn hình thông tin chi tiết của tài khoản, chọn **Logout** đ�
 
 | Lỗi / Tình huống | Nguyên nhân                                                            | Cách xử lý                          |
 | ---------------- | ---------------------------------------------------------------------- | ----------------------------------- |
-| Không đăng nhập  | Chưa có tài khoản Lark, hoặc tài khoản Lark chưa thuộc tổ chức UpBasse | Liên hệ đội vận hành để được hỗ trợ |
+| Không đăng nhập  | Chưa có tài khoản Lark, hoặc tài khoản Lark chưa thuộc tổ chức UpBase | Liên hệ đội vận hành để được hỗ trợ |

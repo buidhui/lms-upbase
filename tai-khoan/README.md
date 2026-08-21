@@ -28,4 +28,4 @@ Khu vực **Tài khoản** giúp bạn quản lý thông tin cá nhân, kiểm s
 
 * [**Thông tin tài khoản**](thong-tin-tai-khoan.md): Xem thông tin tài khoản và chỉnh sửa ảnh đại diện, tên hiển thị.
 * [**Bảo mật tài khoản**](bao-mat-tai-khoan.md): Xem danh sách thiết bị và lịch sử đăng nhập để phát hiện truy cập bất thường.
-* [**Đăng nhập & Đăng xuất**](dang-nhap-dang-xuat.md)**:** Đăng nhập, đăng nhập lần đầu (Product Tour), quên mật khẩu, lưu đăng nhập và đăng xuất.
+* [**Đăng nhập & Đăng xuất**](dang-nhap-dang-xuat.md): Đăng nhập, đăng nhập lần đầu (Product Tour), quên mật khẩu, lưu đăng nhập và đăng xuất.

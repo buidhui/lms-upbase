@@ -60,7 +60,7 @@ Với câu hỏi có sẵn **Answer Template**, học viên làm trực tiếp v
 
 Có 2 dạng Quiz:
 
-* **Hiển thị đáp án ngay sau khi trả lời:** chọn **Submit & View Answer** để xác nhận đáp án và xem lời giải chi tiết. Với các
+* **Hiển thị đáp án ngay sau khi trả lời:** chọn **Submit & View Answer** để xác nhận đáp án và xem lời giải chi tiết.
 
 <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
@@ -72,7 +72,7 @@ Có 2 dạng Quiz:
 {% step %}
 **Hoàn thành tất cả câu hỏi**
 
-Lặp lại cho đến khi hoàn thành tất cả câu hỏi, sau đó chọn **Finish** để chuyển đến màn hình tồng hợp kết quả.
+Lặp lại cho đến khi hoàn thành tất cả câu hỏi, sau đó chọn **Finish** để chuyển đến màn hình tổng hợp kết quả.
 
 <figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -99,7 +99,7 @@ Chọn vào tên câu hỏi để xem đáp án chi tiết và lời giải.
 {% hint style="info" %}
 ### Mẹo sử dụng
 
-1. Với loại Quiz hiển thị đáp án ngay, dùng **Submit & View Answer** để học và sửa sai ngay trong quá trình làm và không thể chọn lại sau khi đã xem đáp án.
+1. Với loại Quiz hiển thị đáp án ngay, dùng **Submit & View Answer** để học và sửa sai ngay trong quá trình làm. Lưu ý: sau khi đã xem đáp án thì không chọn lại được nữa.
 2. Với câu hỏi có Answer Template, dùng **Show Answer Template** để đối chiếu template gốc mà không mất bài làm hiện tại.
 {% endhint %}
 

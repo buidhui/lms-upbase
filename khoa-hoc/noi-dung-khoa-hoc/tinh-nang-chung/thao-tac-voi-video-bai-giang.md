@@ -106,10 +106,10 @@ Khi Video đang chạy, chọn vào icon **Pause** hoặc click vào Video để
 
 <summary>Picture in Picture</summary>
 
-* Chọn chức năng Picture in Picture để thu nhỏ Video, giúp học viên vừa theo dõi Video đồng thời có thể theo các nội dung khác.
+* Chọn chức năng Picture in Picture để thu nhỏ Video, giúp học viên vừa theo dõi Video vừa xem được các nội dung khác.
 * Chức năng Picture in Picture vẫn hoạt động khi chuyển sang Tab trình duyệt khác.
-* Để tắt chức năng Picture in Picture, chọn lại icon PiP trên Video, hoặc tắt video thu nhỏ
-* Học viên có thể kéo thả vị trí Video thu nhỏ trên màn hình tùy ý
+* Để tắt chức năng Picture in Picture, chọn lại icon PiP trên Video hoặc tắt video thu nhỏ.
+* Học viên có thể kéo thả vị trí Video thu nhỏ trên màn hình tùy ý.
 
 <figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
@@ -136,15 +136,15 @@ Trong quá trình xem Video bài giảng, học viên sẽ được thực hành
 {% step %}
 **Danh sách câu hỏi trong Video**
 
-Trên thanh tiến độ của Video sẽ hiển thị các điểm Markdown, thể hiện số lượng, mốc thời gian sẽ hiển thị các câu hỏi trong Video đó.
+Trên thanh tiến độ của Video hiển thị các điểm Marker, cho biết số lượng câu hỏi và mốc thời gian câu hỏi sẽ xuất hiện trong Video đó.
 
 <figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-**Trả lời câu hỏi trong Video**&#x20;
+**Trả lời câu hỏi trong Video**
 
-Học viên lựa Đáp án của câu hỏi và chọn Submit để xem đáp án đúng và giải thích.
+Học viên chọn đáp án của câu hỏi rồi chọn Submit để xem đáp án đúng và giải thích.
 
 <figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 

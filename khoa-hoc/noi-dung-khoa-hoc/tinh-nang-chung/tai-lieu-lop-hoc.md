@@ -15,7 +15,7 @@
 * **Module liên quan:** My Course, Course Content
 {% endhint %}
 
-Tài liệu lớp học là tài liệu gắn với một lớp học cố định, có thể là video record bài giảng, tài liệu của giảng viên dạy lớp đó,.... Khác với tài liệu khóa học là một khóa học có thể gắn với nhiều lớp học, do đó tài liệu khóa học sẽ tồn tại ở tất cả các lớp có gắn khóa học đó.
+Tài liệu lớp học là tài liệu gắn với một lớp học cố định, có thể là video record bài giảng, tài liệu của giảng viên dạy lớp đó... Khác với tài liệu khóa học: một khóa học có thể gắn với nhiều lớp học, do đó tài liệu khóa học sẽ tồn tại ở tất cả các lớp có gắn khóa học đó.
 
 ## II. Hướng dẫn chi tiết
 
@@ -78,7 +78,7 @@ Chọn tài liệu muốn xem để hiển thị nội dung ngay trên giao di�
 
 <details>
 
-<summary>Tải tài liệu khóa học</summary>
+<summary>Tải tài liệu lớp học</summary>
 
 Tại danh sách tài liệu lớp học, chọn nút **Action** tương ứng với tài liệu muốn tải và chọn **Download**.
 
@@ -99,7 +99,7 @@ Tại danh sách tài liệu lớp học, chọn nút **Action** tương ứng v
 ### Mẹo sử dụng
 
 1. Có thể chuyển đổi giữa dạng Danh sách (List) và dạng Lưới (Grid) để xem tài liệu theo cách thuận tiện nhất.
-2. Dùng chức năng **Search** và bộ lọc **Type/ Lesson** để nhanh chóng tìm đúng tài liệu cần xem.
+2. Dùng chức năng **Search** và bộ lọc **Type/ Lesson** để tìm đúng tài liệu cần xem.
 {% endhint %}
 
 ## IV. Các lỗi thường gặp & Hướng dẫn xử lý

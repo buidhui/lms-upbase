@@ -36,7 +36,7 @@ layout:
 * **Module liên quan:** Course, Course Detail, Learning Activity
 {% endhint %}
 
-Tài liệu lớp học là tài liệu gắn với một lớp học cố định, có thể là video record bài giảng, tài liệu của giảng viên dạy lớp đó,.... Khác với tài liệu khóa học là một khóa học có thể gắn với nhiều lớp học, do đó tài liệu khóa học sẽ tồn tại ở tất cả các lớp có gắn khóa học đó.
+Tài liệu khóa học là tài liệu gắn với một khóa học. Vì một khóa học có thể được gắn với nhiều lớp học, tài liệu khóa học sẽ tồn tại ở tất cả các lớp có gắn khóa học đó. Khác với tài liệu lớp học — tài liệu gắn với một lớp cố định, ví dụ video record bài giảng hoặc tài liệu của giảng viên dạy lớp đó.
 
 ## II. Hướng dẫn chi tiết
 
@@ -54,7 +54,7 @@ Chọn **Course Resource** tại menu sidebar trong màn hình chi tiết khóa 
 
 Danh sách các tài liệu khóa sẽ hiển thị khác nhau theo từng màn hình truy cập:
 
-* Hiển thị toàn bộ danh sách tài liệu của khóa học nếu mở note list tại màn chi tiết khóa học.
+* Hiển thị toàn bộ danh sách tài liệu của khóa học nếu mở Course Resource tại màn chi tiết khóa học.
 
 <figure><img src="../../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
@@ -78,7 +78,7 @@ Chọn tài liệu để xem Preview ngay trong giao diện màn hình đang h�
 {% step %}
 **Tải học liệu về máy**
 
-Học viên click vào biểu tượng Dowload về để tải Tài liệu về máy
+Học viên click vào biểu tượng Download để tải tài liệu về máy.
 
 <figure><img src="../../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
@@ -105,7 +105,7 @@ Khi chọn một trường thông tin, hệ thống sẽ tự động tìm kiế
 
 </details>
 
-## III. Lưu ý & Quy tắc ngiệp vụ
+## III. Lưu ý & Quy tắc nghiệp vụ
 
 {% hint style="warning" %}
 ### Lưu ý quan trọng
@@ -118,7 +118,7 @@ Khi chọn một trường thông tin, hệ thống sẽ tự động tìm kiế
 ### Mẹo sử dụng
 
 1. Mở Resource ở màn hình cấu phần lớn để xem toàn bộ học liệu của Khóa học trong một danh sách.
-2. Dùng bộ lọc Section → Activity để nhanh chóng tìm học liệu thuộc đúng cấu phần học.
+2. Dùng bộ lọc Section → Activity để tìm học liệu thuộc đúng cấu phần học.
 3. Hệ thống tự động tìm kiếm ngay khi chọn từng trường, không cần thao tác xác nhận thêm.
 {% endhint %}
 

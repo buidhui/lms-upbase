@@ -41,7 +41,7 @@ layout:
 #### Điều kiện tiên quyết
 
 * Học viên đã đăng nhập thành công vào hệ thống LMS.
-* Khóa học có Status = **Resume** hoặc **Review** thì khi click vào Lớp, hệ thống chuyển đến màn Dashboard. Còn khóa có Status = **Ready to learn**, hệ thống chuyển đến màn Course Content (chưa có Dashboard).
+* Khóa học có Status = **Resume** hoặc **Review**. Khóa có Status = **Ready to learn** chưa có Dashboard.
 {% endhint %}
 
 ## II. Hướng dẫn chi tiết
@@ -50,12 +50,12 @@ layout:
 
 <summary>Truy cập Dashboard Khóa học</summary>
 
-Chọn Dashboard từ Sidebar trong một khóa học để truy cập Dashboard của khóa học đó
+Chọn Dashboard từ Sidebar trong một khóa học để truy cập Dashboard của khóa học đó.
 
 <figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-* &#x20;Khóa có status = **Resume** hoặc **Review** → click vào Khóa, hệ thống chuyển ngay đến màn Dashboard.
+* Khóa có Status = **Resume** hoặc **Review** → click vào Khóa, hệ thống chuyển ngay đến màn Dashboard.
 * Khóa có Status = **Ready to learn** → click vào Khóa, hệ thống chuyển ngay đến màn Course Content (chưa có Dashboard).
 {% endhint %}
 
@@ -67,11 +67,11 @@ Chọn Dashboard từ Sidebar trong một khóa học để truy cập 
 
 **Overall Progress:** Tiến độ học tập của học viên trong Khóa học.
 
-> **Công thức:** Overall progress = Số Activities đã hoàn thiện / Tổng số Activities của Khóa học
+> **Công thức:** Overall progress = Số Activities đã hoàn thành / Tổng số Activities của Khóa học
 
 <figure><img src="../../../.gitbook/assets/Course Dashboard.png" alt=""><figcaption></figcaption></figure>
 
-**This Week:** So sánh số Activities đã hoàn thiện & thời gian học đến thời điểm hiện tại của tuần này với tổng của tuần liền trước:
+**This Week:** So sánh số Activities đã hoàn thành & thời gian học đến thời điểm hiện tại của tuần này với tổng của tuần liền trước:
 
 * Tuần này **> tuần trước:** hiển thị _"You've outperformed last week! Aim higher!"_
 * Tuần này **= tuần trước:** hiển thị _"You've matched last week's progress. Go further!"_
@@ -81,7 +81,7 @@ Chọn Dashboard từ Sidebar trong một khóa học để truy cập 
 
 **Section Progress:** Tiến độ học theo từng Section, mỗi cột tương ứng với một Section.
 
-> **Công thức:** Progress = Số Activities đã hoàn thiện trong Section / Tổng số Activities của Section đó
+> **Công thức:** Progress = Số Activities đã hoàn thành trong Section / Tổng số Activities của Section đó
 
 <figure><img src="../../../.gitbook/assets/Course Dashboard 4.png" alt=""><figcaption></figcaption></figure>
 
@@ -95,7 +95,7 @@ Chọn Dashboard từ Sidebar trong một khóa học để truy cập 
 
 </details>
 
-## IV. Lưu ý & Quy tắc nghiệp vụ
+## III. Lưu ý & Quy tắc nghiệp vụ
 
 {% hint style="warning" %}
 ### Lưu ý quan trọng
@@ -113,7 +113,7 @@ Chọn Dashboard từ Sidebar trong một khóa học để truy cập 
 3. Đặt mục tiêu **Overall Progress** theo tuần (ví dụ: tăng 10%/tuần) để có lộ trình học rõ ràng.
 {% endhint %}
 
-## V. Các lỗi thường gặp & Hướng dẫn xử lý
+## IV. Các lỗi thường gặp & Hướng dẫn xử lý
 
 | Lỗi / Tình huống                                           | Nguyên nhân                                                                         | Cách xử lý                                                                                       |
 | ---------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |

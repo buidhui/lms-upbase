@@ -84,7 +84,7 @@ Click vào thông báo để xem chi tiết nội dung thông báo.
 {% hint style="info" %}
 ### Mẹo sử dụng
 
-1. Dùng thẻ **Unread** để nhanh chóng lọc các thông báo chưa đọc.
+1. Dùng thẻ **Unread** để lọc riêng các thông báo chưa đọc.
 2. Chọn **Mark as all read** để đánh dấu đã đọc cho toàn bộ thông báo cùng lúc.
 {% endhint %}
 

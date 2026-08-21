@@ -24,5 +24,5 @@ layout:
 
 ### Nội dung trong mục này
 
-* [**Danh sách khóa học**](danh-sach-khoa-hoc.md)**:** Xem, tìm kiếm và lọc các khóa học đã đăng ký; nắm thông tin thời hạn và tiến độ của từng khóa.
-* [**Nội dung khoá học**](noi-dung-khoa-hoc/)**:** Học các hoạt động trong khóa: bài học, video, bài kiểm tra và các tính năng hỗ trợ như ghi chú, tài liệu, thảo luận.
+* [**Danh sách khóa học**](danh-sach-khoa-hoc.md): Xem, tìm kiếm và lọc các khóa học đã đăng ký; nắm thông tin thời hạn và tiến độ của từng khóa.
+* [**Nội dung khoá học**](noi-dung-khoa-hoc/): Học các hoạt động trong khóa: bài học, video, bài kiểm tra và các tính năng hỗ trợ như ghi chú, tài liệu, thảo luận.

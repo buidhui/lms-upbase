@@ -100,7 +100,7 @@ Thông tin của một hoạt động học bao gồm
 * Trạng thái hoạt động học đó đã hoàn thành hay chưa
 * Loại nội dung học chính của hoạt động đó (Text, Video, Quiz, Storyline)
 * Tên hoạt động học
-* Thời giời ước lượng cần thiết để hoàn thành hoạt động học đó
+* Thời gian ước lượng cần thiết để hoàn thành hoạt động học đó
 
 <figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
@@ -119,7 +119,7 @@ Logic tính hoàn thành Hoạt động học với các loại nội dung học
 * Hoạt động học chứa Video thì phải play video
 * Hoạt động học chứa Text và Ảnh thì chỉ cần mở hiển thị
 
-Mức đội ưu tiên theo thứ tự Quiz -> Video -> Text/ Ảnh. Trong trường hợp có nhiều Tab thì phải học hết các Tab có trong Hoạt động học đó mới tính Hoàn thành
+Mức độ ưu tiên theo thứ tự Quiz → Video → Text/Ảnh. Trong trường hợp có nhiều Tab thì phải học hết các Tab có trong Hoạt động học đó mới tính Hoàn thành.
 {% endhint %}
 {% endstep %}
 

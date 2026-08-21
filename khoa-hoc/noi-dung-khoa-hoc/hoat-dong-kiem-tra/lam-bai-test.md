@@ -154,7 +154,7 @@ Nếu đồng hồ đếm ngược trên hộp thoại chạy về 00:00:00, h�
 2. Tính năng tiếp tục bài bị gián đoạn chỉ áp dụng cho Chapter Test, Midterm Test, Final Test.
 {% endhint %}
 
-## IV. Các Lỗi Thường Gặp & Cách Xử Lý
+## IV. Các lỗi thường gặp & Hướng dẫn xử lý
 
 | Lỗi / Tình huống                                   | Nguyên nhân                                    | Cách xử lý                                                                           |
 | -------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------ |

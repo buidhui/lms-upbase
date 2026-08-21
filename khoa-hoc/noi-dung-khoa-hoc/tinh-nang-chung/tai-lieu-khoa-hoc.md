@@ -36,7 +36,7 @@ layout:
 * **Module liên quan:** Course, Course Detail, Learning Activity
 {% endhint %}
 
-Tài liệu khóa học là tài liệu gắn với một khóa học. Vì một khóa học có thể được gắn với nhiều lớp học, tài liệu khóa học sẽ tồn tại ở tất cả các lớp có gắn khóa học đó. Khác với tài liệu lớp học — tài liệu gắn với một lớp cố định, ví dụ video record bài giảng hoặc tài liệu của giảng viên dạy lớp đó.
+Tài liệu khóa học là tài liệu gắn với một khóa học. Vì một khóa học có thể được gắn với nhiều lớp học, tài liệu khóa học sẽ tồn tại ở tất cả các lớp có gắn khóa học đó. Khác với tài liệu lớp học, tài liệu gắn với một lớp cố định, ví dụ video record bài giảng hoặc tài liệu của giảng viên dạy lớp đó.
 
 ## II. Hướng dẫn chi tiết
 

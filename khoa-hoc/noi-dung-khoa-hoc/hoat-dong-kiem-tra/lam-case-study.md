@@ -77,7 +77,13 @@ Hệ thống sẽ cảnh báo nếu bạn chưa hoàn thành hết số câu h�
 {% step %}
 **Hoàn thành Case Study**
 
-Hoàn thành tất cả các nhóm câu hỏi để hoàn thành hoạt động học Case Study
+* Hoàn thành tất cả các nhóm câu hỏi để xem đáp án
+
+<figure><img src="../../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+
+* Hoàn thành hoạt động học để hoàn thành Case Study Activity
+
+<figure><img src="../../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

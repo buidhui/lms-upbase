@@ -69,36 +69,6 @@ Truy cập hệ thống LMS theo link sau:
 
 <details>
 
-<summary>Đăng nhập lần đầu</summary>
-
-Khi đăng nhập lần đầu thành công, hệ thống hiển thị phần hướng dẫn sử dụng (Product Tour) để giới thiệu giao diện.
-
-{% stepper %}
-{% step %}
-**Bắt đầu Product Tour**
-
-Tại hộp thoại chào mừng, chọn **Start Tour**.
-
-
-{% endstep %}
-
-{% step %}
-**Đi qua các hộp thoại hướng dẫn**
-
-Tại mỗi hộp thoại hướng dẫn, chọn **Next** để sang bước tiếp theo hoặc **Previous** để quay lại bước trước đó.
-
-
-{% endstep %}
-{% endstepper %}
-
-{% hint style="info" %}
-Product Tour chỉ hiển thị tự động ở lần đăng nhập đầu tiên. Nếu tài khoản đã đăng nhập trước đó, hộp thoại này sẽ không xuất hiện.
-{% endhint %}
-
-</details>
-
-<details>
-
 <summary>Đăng xuất khỏi hệ thống</summary>
 
 Tại màn hình thông tin chi tiết của tài khoản, chọn **Logout** để đăng xuất và chuyển hướng đến màn hình đăng nhập.

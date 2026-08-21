@@ -26,7 +26,7 @@ layout:
 {% hint style="info" %}
 **Dành cho:** Học viên
 
-**Đường dẫn:** [https://uplms.upbase.asia/](https://lms.upbase.asia/)
+**Đường dẫn:** [https://uplms.upbase.asia/](https://uplms.upbase.asia/)
 {% endhint %}
 
 {% hint style="info" %}
@@ -52,7 +52,7 @@ Học viên là nhân sự của UpBase và tài khoản được tạo trên h�
 {% step %}
 **Truy cập hệ thống**
 
-Truy cập hệ thống UpLMS theo link sau: [https://uplms.upbase.asia/](https://lms.upbase.asia/)
+Truy cập hệ thống UpLMS theo link sau: [https://uplms.upbase.asia/](https://uplms.upbase.asia/)
 
 <figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

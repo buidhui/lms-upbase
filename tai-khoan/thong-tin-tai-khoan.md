@@ -70,7 +70,7 @@ Thông tin bao gồm:
 <summary>Chỉnh sửa thông tin tài khoản</summary>
 
 {% hint style="info" %}
-Thông tin học viên được đồng bộ từ Lark nên không thể chỉnh sửa trực tiếp trên LMS, liên hệ đội vận hành nếu cần hỗ trợ
+Thông tin học viên được đồng bộ từ Lark nên không thể chỉnh sửa trực tiếp trên UpLMS, liên hệ đội vận hành nếu cần hỗ trợ
 {% endhint %}
 
 </details>

@@ -26,7 +26,7 @@ layout:
 {% hint style="info" %}
 **Dành cho:** Học viên
 
-**URL:** [LMS → My Course](https://lms.upbase.asia/courses)
+**URL:** [LMS → My Course](https://uplms.upbase.asia/courses)
 {% endhint %}
 
 {% hint style="info" %}
@@ -40,7 +40,7 @@ layout:
 #### Điều kiện tiên quyết
 
 * Học viên đã **đăng ký khóa học**
-* Học viên đã **đăng nhập** hệ thống LMS thành công thông qua **Lark** [#dang-nhap-vao-he-thong](../tai-khoan/dang-nhap-dang-xuat.md#dang-nhap-vao-he-thong "mention")
+* Học viên đã **đăng nhập** hệ thống UpLMS thành công thông qua **Lark** [#dang-nhap-vao-he-thong](../tai-khoan/dang-nhap-dang-xuat.md#dang-nhap-vao-he-thong "mention")
 {% endhint %}
 
 ## II. Hướng dẫn chi tiết

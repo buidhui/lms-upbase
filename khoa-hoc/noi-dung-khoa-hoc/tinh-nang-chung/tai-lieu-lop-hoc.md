@@ -49,7 +49,7 @@ Tài liệu lớp học hiển thị dưới 2 dạng:
 {% step %}
 **Xem chi tiết tài liệu**
 
-Chọn tài liệu muốn xem để hiển thị nội dung ngay trên giao diện hệ thống LMS.
+Chọn tài liệu muốn xem để hiển thị nội dung ngay trên giao diện hệ thống UpLMS.
 
 <figure><img src="../../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

@@ -40,7 +40,7 @@ layout:
 {% hint style="warning" %}
 #### Điều kiện tiên quyết
 
-* Học viên đã đăng nhập thành công vào hệ thống LMS.
+* Học viên đã đăng nhập thành công vào hệ thống UpLMS.
 * Khóa học có Status = **Resume** hoặc **Review**. Khóa có Status = **Ready to learn** chưa có Dashboard.
 {% endhint %}
 

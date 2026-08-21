@@ -46,7 +46,7 @@ Case Study chỉ có **1 lượt làm duy nhất** và **không phải hoạt đ
 
 Tại Case Study Activity, học viên chọn nhóm câu hỏi.
 
-
+<figure><img src="../../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -57,7 +57,7 @@ Giao diện Case Study được chia làm 2 phần:
 * **Bên trái:** tình huống chung của Case Study.
 * **Bên phải:** danh sách câu hỏi được sắp xếp lần lượt từ trên xuống dưới.
 
-
+<figure><img src="../../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Với câu hỏi có sẵn **Answer Template**, học viên làm trực tiếp vào template Word/ Excel. Nếu câu hỏi có nhiều Requirement, các nút **Show/ Reset Answer Template** hiển thị theo từng Requirement. Xem cách dùng tại [#iv.-answer-template-word-excel](./#iv.-answer-template-word-excel "mention").
@@ -69,15 +69,15 @@ Với câu hỏi có sẵn **Answer Template**, học viên làm trực tiếp v
 
 Sau khi trả lời câu hỏi, chọn **Finish** rồi **Submit** để xác nhận nộp và chuyển đến màn hình kết quả chi tiết.
 
+Hệ thống sẽ cảnh báo nếu bạn chưa hoàn thành hết số câu hỏi nhưng đã lựa chọn Finish
 
+<figure><img src="../../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 **Hoàn thành Case Study**
 
 Hoàn thành tất cả các nhóm câu hỏi để hoàn thành hoạt động học Case Study
-
-
 {% endstep %}
 {% endstepper %}
 

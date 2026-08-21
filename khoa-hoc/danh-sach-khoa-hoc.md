@@ -26,7 +26,7 @@ layout:
 {% hint style="info" %}
 **Dành cho:** Học viên
 
-**URL:** [LMS → My Course](https://lms-upbase.edu.asia/courses)
+**URL:** [LMS → My Course](https://lms.upbase.asia/courses)
 {% endhint %}
 
 {% hint style="info" %}

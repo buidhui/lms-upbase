@@ -26,7 +26,7 @@ layout:
 {% hint style="info" %}
 **Dành cho:** Học viên
 
-**Đường dẫn:**&#x20;
+**Đường dẫn:** [https://lms.upbase.asia/](https://lms.upbase.asia/)
 {% endhint %}
 
 {% hint style="info" %}
@@ -87,6 +87,6 @@ Tại màn hình thông tin chi tiết của tài khoản, chọn **Logout** đ�
 
 ## IV. Các lỗi thường gặp & Hướng dẫn xử lý
 
-| Lỗi / Tình huống | Nguyên nhân                                                            | Cách xử lý                          |
-| ---------------- | ---------------------------------------------------------------------- | ----------------------------------- |
+| Lỗi / Tình huống | Nguyên nhân                                                           | Cách xử lý                          |
+| ---------------- | --------------------------------------------------------------------- | ----------------------------------- |
 | Không đăng nhập  | Chưa có tài khoản Lark, hoặc tài khoản Lark chưa thuộc tổ chức UpBase | Liên hệ đội vận hành để được hỗ trợ |
